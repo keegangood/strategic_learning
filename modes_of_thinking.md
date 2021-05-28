@@ -2,7 +2,14 @@
 <img src="./images/pdx_code_guild_logo.svg" width=100/>
 
 </p>
-<h1 align="center">Modes of Thinking</h1>
+<center>
+    <span style="font-size:2rem">Modes of Thinking</span><br>
+    <a href="#tldr">TL;DR</a>
+</center>
+
+---
+
+<br>
 
 When we focus too intently for too long, we can reach a point where our brains simply cannot absorb any additional information. We can begin to feel a bit hopeless and to worry that we’ll never understand the material. 
 
@@ -135,10 +142,14 @@ Once we enter the deeper stages of sleep, the memories we’ve processed in our 
 
 <br>
 
+<center>
+    <a href="#top">Back to top &mapstoup;</a>
+</center>
+
 ---
 
 <center>
-    <h2>TL;DR</h2>
+    <h2 id="tldr">TL;DR</h2>
 </center>
 
 <br>

@@ -4,7 +4,15 @@
 </p>
 
 
-<h1 align="center">The Mind-Body Connection</h1>
+<center>
+    <span style="font-size:2rem">The Mind-Body Connection</span><br>
+    <a href="#tldr">TL;DR</a>
+</center>
+
+---
+
+<br>
+
 
 When beginning the process of learning something new, it’s important to point out the inescapable connection between body and mind. 
 
@@ -277,12 +285,16 @@ For some strategies to improve sleep habits, check out the [Tips for Better Slee
 
 <br>
 
+<center>
+    <a href="#top">Back to top &mapstoup;</a>
+</center>
+
 ---
 
 <br>
 
 <center>
-    <h2>TL;DR</h2>
+    <h2 id="tldr">TL;DR</h2>
 </center>
 
 Maintaining a baseline of physical health will benefit any learning endeavor. Developing a habit of interspersing a few minutes of activity between study or work sessions will lead to desirable outcomes in terms of retaining new information. Spending time outdoors and getting enough quality sleep both support overall health and will improve our learning results as well. 

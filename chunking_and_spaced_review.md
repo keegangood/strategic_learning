@@ -2,7 +2,19 @@
 <img src="./images/pdx_code_guild_logo.svg" width=100/>
 
 </p>
-<h1 align="center">Chunking & Spaced Review</h1>
+<center>
+    <span style="font-size:2rem">Chunking & Spaced Review</span><br>
+    <a href="#tldr">TL;DR</a>
+</center>
+
+---
+
+<center>
+    <h2>Chunking</h2>
+</center>
+
+
+<br>
 
 <p align="center"><img src="./images/chunking/chunking.drawio.svg" width=400/></p> 
 
@@ -95,6 +107,8 @@ We can see, at a glance that there are **five** dollar signs and it would make c
     <h2>Spaced Review</h2>
 </center>
 
+<br>
+
 <p align="center"><img src="./images/spaced_review.drawio.svg"/></p> 
 
 <br>
@@ -113,7 +127,7 @@ Reviewing also slows the forgetting curve, helping us retain more information fo
 ---
 
 <center>
-    <h2>TL;DR</h2>
+    <h2 id="tldr">TL;DR</h2>
 </center>
 
 <br>

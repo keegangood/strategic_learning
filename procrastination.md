@@ -2,7 +2,14 @@
 <p align="center" id="top">
 <img src="./images/pdx_code_guild_logo.svg" width=100/>
 </p>
-<h1 align="center">Procrastination</h1>
+<center>
+    <span style="font-size:2rem">Procrastination</span><br>
+    <a href="#tldr">TL;DR</a>
+</center>
+
+---
+
+<br>
 
 It’s easy for us to find distaste in something we’re not good at yet. 
 
@@ -198,7 +205,7 @@ The better we get at something, the more enjoyable it can become. We need to bel
 ---
 
 <center>
-    <h2>TL;DR</h2>
+    <h2 id="tldr">TL;DR</h2>
 </center>
 
 <br>

@@ -2,8 +2,14 @@
 <p align="center" id="top">
 <img src="./images/pdx_code_guild_logo.svg" width=100/>
 </p>
-<h1 align="center">Cognitive Biases</h1>
+<center>
+    <span style="font-size:2rem">Cognitive Biases</span><br>
+    <a href="#tldr">TL;DR</a>
+</center>
 
+<br>
+
+---
 
 
 <center>
@@ -203,6 +209,37 @@ They may feel like they actually have no right to the job they're doing and are 
 ## Imposter Syndrome is incredibly common. We should always try not to be compassionate with ourselves when learning something new. Everyone is unique and learns things in their own way and at their own pace. 
 
 <br>
+
+---
+
+<center>
+    <h2 id="tldr">TL;DR</h2>
+</center>
+
+<br>
+
+<center>
+    <h2>Dunning Kruger Effect</h2>
+</center>
+
+The **Dunning Kruger Effect** is the cognitive bias that causes people to believe that they are smarter and more capable than they really are.
+
+We can avoid this by always questioning our knowledge, especially if we think we have a good understanding of it.
+
+<br>
+
+<center>
+    <h2>Imposter Syndrome</h2>
+</center>
+
+Imposter Syndrome is the persistent inability to believe that one's success is deserved or has been legitimately achieved as a result of one's own efforts or skills.
+
+To avoid Imposter Syndrome in its many forms, celebrate small successes, take frequent breaks, don't be afraid to ask for help and don't worry too much about gaps in knowledge.
+
+<br>
+<br>
+
+
 
 ---
 

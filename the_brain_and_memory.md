@@ -2,7 +2,15 @@
 <img src="./images/pdx_code_guild_logo.svg" width=100/>
 
 </p>
-<h1 align="center">The Brain & Memory</h1>
+
+<center>
+    <span style="font-size:2rem">The Brain & Memory</span><br>
+    <a href="#tldr">TL;DR</a>
+</center>
+
+---
+
+<br>
 
 Forgetting is an inherent part of having a brain. Our brains filter reality down so we can exist without being overwhelmed by the sheer breadth of the information we’re receiving. We’re naturally forgetting a large majority of all that we’re experiencing every single second, and this is to our advantage. 
 
@@ -223,7 +231,7 @@ Since we haven’t taken the time to intentionally commit the order of those key
 ---
 
 <center>
-    <h2>TL;DR</h2>
+    <h2 id="tldr">TL;DR</h2>
 </center>
 
 ## The Brain

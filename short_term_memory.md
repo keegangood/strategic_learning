@@ -2,8 +2,14 @@
 <img src="./images/pdx_code_guild_logo.svg" width=100/>
 
 </p>
-<h1 align="center">Short-Term Memory</h1>
+<center>
+    <span style="font-size:2rem">Short-Term Memory</span><br>
+    <a href="#tldr">TL;DR</a>
+</center>
 
+---
+
+<br>
 
 
 The amount of information that can be stored in short-term memory can vary.
@@ -46,7 +52,7 @@ old information is pushed out to make room for new information.</p>
 ---
 
 <center>
-    <h2>TL;DR</h2>
+    <h2 id="tldr">TL;DR</h2>
 </center>
 
 <br>
