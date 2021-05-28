@@ -112,11 +112,9 @@ Don’t pretend to know something you don’t. Make it a priority to continue le
 
 This tends to make us think we’re not worthy and that we’re one wrong move away from being outed as the liars that we are. 
 
-The only line of defense we have against this delusion is our **perception of it**. Awareness is the first step to overcoming any obstacle and imposter syndrome no different.
+**The only line of defense we have against this delusion is our perception of it**. Awareness is the first step to overcoming any obstacle and Imposter Syndrome no different.
 
-Imposter syndrome can take on many forms and evoke a multitude of confusing emotions.
-
-Let’s take a look at some of the more common faces of Imposter Syndrome and some advice for dealing with them when they arise.
+Imposter syndrome can take on many forms and evoke a multitude of confusing emotions. Let’s take a look at some of the more common faces of Imposter Syndrome and some advice for dealing with them when they arise.
 
 <br>
 
@@ -197,6 +195,13 @@ They may feel like they actually have no right to the job they're doing and are 
 - Focus on existing skills and strengths , consciously note successes and making realistic plans to fill in any gaps.
 
 <br>
+<br>
+
+---
+<br>
+
+## Imposter Syndrome is incredibly common. We should always try not to be compassionate with ourselves when learning something new. Everyone is unique and learns things in their own way and at their own pace. 
+
 <br>
 
 ---
