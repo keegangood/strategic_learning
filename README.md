@@ -34,11 +34,7 @@ At PDX Code Guild, our mission is to cultivate our students' confidence in their
 
 <br/>
 
-<center>
-
 ## Table of Contents
-
-</center>
 
 
 1.  [The Mind-Body Connection](./mind_body_connection.md")
