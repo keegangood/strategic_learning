@@ -12,9 +12,9 @@
 
 <br>
 
-Forgetting is an inherent part of having a brain. Our brains filter reality down so we can exist without being overwhelmed by the sheer breadth of the information we’re receiving. We’re naturally forgetting a large majority of all that we’re experiencing every single second, and this is to our advantage. 
+Forgetting is an inherent part of having a brain. Our brains filter reality down so we can exist without being overwhelmed by the sheer breadth of the information we’re receiving. We’re naturally forgetting a large majority of all that we’re experiencing every single second, and this is to our advantage.
 
-When it comes to the things we do want to remember, humans need to find meaningful associations between bits of information in order for them to be effectively encoded in our memory. 
+When it comes to the things we do want to remember, humans need to find meaningful associations between bits of information in order for them to be effectively encoded in our memory.
 
 While the entire brain is interwoven with memories stored throughout all areas, there are a few sections of the brain which are generally regarded as being integral in the process of encoding and recalling information.
 
@@ -38,8 +38,8 @@ While the entire brain is interwoven with memories stored throughout all areas, 
 </center>
 
 All of our senses except smell are routed through the thalamus. It determines which information is important enough to be sent elsewhere in the brain for further processing and the filters out the rest.
-    
-Studies have shown that the thalamus is also essential for determining how well new memories are encoded.  It helps to focus our attention and alerts the brain where or when to be engaged.  
+
+Studies have shown that the thalamus is also essential for determining how well new memories are encoded. It helps to focus our attention and alerts the brain where or when to be engaged.
 
 <br>
 
@@ -47,7 +47,7 @@ Studies have shown that the thalamus is also essential for determining how well 
     <h2>Amygdala</h2>
 </center>
 
-The Amygdala (pronounced Uh-mig-duh-luh) is stimulated by intense emotions such as anger, sadness or anxiety. It is often associated with our “fight or flight” response. 
+The Amygdala (pronounced Uh-mig-duh-luh) is stimulated by intense emotions such as anger, sadness or anxiety. It is often associated with our “fight or flight” response.
 
 Recent studies have shown that the amygdala is also partially responsible for recognizing more than just negative stimuli and can indeed play a role in remembering positive experiences as well. It analyzes incoming sensations and flags stimuli that have a strong emotional component so that they are remembered more effectively.
 
@@ -59,7 +59,7 @@ Recent studies have shown that the amygdala is also partially responsible for re
 
 The hippocampus plays an important role in encoding and retrieving memories. Its close proximity to the amygdala ensures that stimuli which trigger strong emotions are remembered.
 
-As new memories are encoded, the hippocampus associates them to existing memories and forms connections that will aid in the retrieval of the data later.  
+As new memories are encoded, the hippocampus associates them to existing memories and forms connections that will aid in the retrieval of the data later.
 
 <br>
 
@@ -67,9 +67,9 @@ As new memories are encoded, the hippocampus associates them to existing memorie
     <h2>Prefrontal Cortex</h2>
 </center>
 
-The prefrontal cortex plays a major role in determining who we are and how we respond to situations. It provides much of functionality on which we rely for healthy relationships with ourselves and others. 
+The prefrontal cortex plays a major role in determining who we are and how we respond to situations. It provides much of functionality on which we rely for healthy relationships with ourselves and others.
 
-The prefrontal cortex has access to the same short-term memory locations to which the hippocampus encodes new memories and acts as a regulatory agent that decides which memories get stored in long-term memory and how we recall those memories after the fact. 
+The prefrontal cortex has access to the same short-term memory locations to which the hippocampus encodes new memories and acts as a regulatory agent that decides which memories get stored in long-term memory and how we recall those memories after the fact.
 
 <br>
 
@@ -114,8 +114,6 @@ The prefrontal cortex has access to the same short-term memory locations to whic
 
 <br>
 
-
-
 <br>
 
 <center>
@@ -126,26 +124,24 @@ The prefrontal cortex has access to the same short-term memory locations to whic
 
 <br>
 
-
 <center>
     <h1>Memory</h1>
 </center>
 
 <br>
 
-Because memory is such a complicated system, psychologists have divided memory into two main categories:  **explicit memory** and **implicit memory**.
+Because memory is such a complicated system, psychologists have divided memory into two main categories: **explicit memory** and **implicit memory**.
 
 <br>
 <br>
-
 
 <center>
     <h2>Explicit Memory</h2>
 </center>
 
-Explicit memory is the **conscious, intentional recollection of facts, experiences, and concepts**. 
+Explicit memory is the **conscious, intentional recollection of facts, experiences, and concepts**.
 
-This type of memory requires gradual learning, with multiple presentations of a stimulus and response.  Explicit memory is also known as “declarative” memory since the information can be consciously recalled and explained.
+This type of memory requires gradual learning, with multiple presentations of a stimulus and response. Explicit memory is also known as “declarative” memory since the information can be consciously recalled and explained.
 
 <center>
         <h3>Examples of Explicit Memory</h3>
@@ -157,7 +153,6 @@ This type of memory requires gradual learning, with multiple presentations of a 
 
 <br>
 <br>
-
 
 <center>
     <h2>Implicit Memory</h2>
@@ -182,6 +177,7 @@ Once these skills are learned, we don’t have to learn them again in order to p
 <br>
 
 ---
+
 <br>
 
 <center>
@@ -212,15 +208,15 @@ Now, without looking at the keyboard:
 <br>
 <br>
 
-For even the most novice typist, it was probably quite easy to type the sentence without having to consciously think about where each letter appeared on the keyboard. 
+For even the most novice typist, it was probably quite easy to type the sentence without having to consciously think about where each letter appeared on the keyboard.
 
-### That task requires implicit memory. 
+### That task requires implicit memory.
 
 <br>
 
-However, having to recall which letters appear in the top row of your keyboard may have proven to be a bit more difficult. 
+However, having to recall which letters appear in the top row of your keyboard may have proven to be a bit more difficult.
 
-### That task requires explicit memory. 
+### That task requires explicit memory.
 
 <br>
 
@@ -256,25 +252,24 @@ There are four parts of the brain that are crucial for encoding and retrieving m
 
 Cognitive psychologists have divided memories into two categories.
 
-<span style="font-size:1.2rem">Explicit memory</span> - Information that is intentionally learned and recalled such as facts or events. 
+<span style="font-size:1.2rem">Explicit memory</span> - Information that is intentionally learned and recalled such as facts or events.
 
 <span style="font-size:1.2rem">Implicit memory</span> - Information that is unconsciously learned and recalled automatically. These memories are usually more procedural and deal with the how rather than the why.
 
-
 <br>
 
+---
 
---- 
 <table style="width:100%">
     <tr>
         <td align="left">
-        < PREVIOUS SECTION
+            <a href="./mind_body_connection.md"> < 1. The Mind-Body Connection </a>
         </td>
-        <td>
+        <td align="center">
             <a href="#top">Back to top &mapstoup;</a>
         </td>
         <td align="right">
-        NEXT SECTION >
+            <a href="./modes_of_thinking.md"> 3. Modes of Thinking > </a>
         </td>
     </tr>
 </table>

@@ -360,13 +360,13 @@ Make your space comfortable, but not *too* comfortable.
 <table style="width:100%">
     <tr>
         <td align="left">
-        < PREVIOUS SECTION
+            <a href="./practical_study_techniques.md"> < 7. Practical Study Techniques </a>
         </td>
-        <td>
+        <td align="center">
             <a href="#top">Back to top &mapstoup;</a>
         </td>
         <td align="right">
-        NEXT SECTION >
+            <a href="./pdx_code_guild.md"> 9. PDX Code Guild > </a>
         </td>
     </tr>
 </table>

@@ -201,16 +201,17 @@ Both modes of thinking are equally valuable, but it’s the harmony between them
 <br>
 
 --- 
+
 <table style="width:100%">
     <tr>
         <td align="left">
-        < PREVIOUS SECTION
+            <a href="./modes_of_thinking.md"> < 2. The Brain & Memory </a>
         </td>
-        <td>
+        <td align="center">
             <a href="#top">Back to top &mapstoup;</a>
         </td>
         <td align="right">
-        NEXT SECTION >
+            <a href="./short_term_memory.md"> 4. Short-Term Memory > </a>
         </td>
     </tr>
 </table>

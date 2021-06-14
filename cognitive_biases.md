@@ -1,4 +1,3 @@
-
 <p align="center" id="top">
 <img src="./images/pdx_code_guild_logo.svg" width=100/>
 </p>
@@ -11,7 +10,6 @@
 
 ---
 
-
 <center>
     <h2>Dunning Kruger Effect</h2>
 </center>
@@ -20,36 +18,33 @@
 
 <span style="font-size:1.5rem">Beware the illusion of competence.</span>
 
-If we’ve studied something long enough, we might start to feel like we’re becoming masters in the subject. 
- 
-We test our knowledge and when we pass our own test, we feel so accomplished that we become narrow-minded about acquiring more information. Suddenly, we’ve fooled ourselves into believing that we understand the subject more than we actually do and in doing so, we've hindered further learning. 
- 
-It’s to our advantage to be open with ourselves about what we don’t know. 
+If we’ve studied something long enough, we might start to feel like we’re becoming masters in the subject.
+
+We test our knowledge and when we pass our own test, we feel so accomplished that we become narrow-minded about acquiring more information. Suddenly, we’ve fooled ourselves into believing that we understand the subject more than we actually do and in doing so, we've hindered further learning.
+
+It’s to our advantage to be open with ourselves about what we don’t know.
 
 <span style="font-size:1.5rem">When all is said and done, it is better to have an honest ignorance than a self-deceptive one.</span>
 
 <br>
 
-
 <p align="center"><img src="./images/dunning_kruger.png" width=400/></p>
 
 <br>
 
-The **Dunning Kruger Effect** is the cognitive bias behind the illusion of competence. 
+The **Dunning Kruger Effect** is the cognitive bias behind the illusion of competence.
 
-It causes people to believe that they are smarter and more capable than they really are. 
+It causes people to believe that they are smarter and more capable than they really are.
 
 Inexperienced people do not possess the wisdom needed to recognize the information they don’t know and this can cause them to be very confident in their incorrectness.
 
 It is actually pretty easy to fall into this pattern when learning new information.
 
-
 <span style="font-size:1.3rem">To avoid falling victim to the Dunning Kruger Effect, practice the following on a regular basis:</span>
-
 
 <span style="font-size:1.5rem">1. </span><span style="font-size:1.3rem">Play devil's advocate</span>
 
-We should always check the information we feel like we understand. We should ask ourselves how we might be wrong and genuinely try to disprove ourselves.  
+We should always check the information we feel like we understand. We should ask ourselves how we might be wrong and genuinely try to disprove ourselves.
 
 <br>
 <br>
@@ -65,7 +60,7 @@ Taking the time to explain the material to someone else and answer their questio
 
 Ask for critiques from people you can trust who you know are highly skilled in your area of interest.
 
-Be prepared to take constructive criticism and value the perspectives of those who share different viewpoints. 
+Be prepared to take constructive criticism and value the perspectives of those who share different viewpoints.
 
 Don’t get defensive if someone disagrees with you, take it as an opportunity for growth.
 
@@ -92,7 +87,6 @@ Don’t pretend to know something you don’t. Make it a priority to continue le
 <br>
 <br>
 
-
 <center>
     <a href="#top">Back to top &mapstoup;</a>
 </center>
@@ -113,10 +107,9 @@ Don’t pretend to know something you don’t. Make it a priority to continue le
 
 **Imposter Syndrome** is the opposite of the Dunning Kruger Effect.
 
-
 <span style="font-size:1.3rem">The more skilled we are, the more we feel like a fraud. </span>
 
-This tends to make us think we’re not worthy and that we’re one wrong move away from being outed as the liars that we are. 
+This tends to make us think we’re not worthy and that we’re one wrong move away from being outed as the liars that we are.
 
 **The only line of defense we have against this delusion is our perception of it**. Awareness is the first step to overcoming any obstacle and Imposter Syndrome no different.
 
@@ -130,14 +123,13 @@ The Perfectionist tends to set unreasonable or even impossible goals and struggl
 
 <span style="font-size:1.3rem">Advice:</span>
 
-- Stop dwelling on failures and give credit where credit is due. 
+- Stop dwelling on failures and give credit where credit is due.
 
-- Aim to complete the "Minimal Viable Product", then add details later. 
+- Aim to complete the "Minimal Viable Product", then add details later.
 
-- Break large goals into lots of smaller goals, focus on one at a time. 
+- Break large goals into lots of smaller goals, focus on one at a time.
 
 - Celebrate small successes to reinforce self-worth.
-
 
 <br>
 <br>
@@ -147,12 +139,12 @@ The Perfectionist tends to set unreasonable or even impossible goals and struggl
 The Superhero is always trying to work harder than everyone else to cover up feeling like a fraud amongst their ‘real-deal’ team mates. They are constantly thinking about work, pushing themselves to and even beyond their limits at the sacrifice of crucial downtime.
 
 <span style="font-size:1.3rem">Advice:</span>
+
 - Try not to seek validation from others, but rather from within oneself.
 
-- Remember that breaks are just as conducive to success as proaction and time spent relaxing or being creative is essential for mental health. 
+- Remember that breaks are just as conducive to success as proaction and time spent relaxing or being creative is essential for mental health.
 
 - The quality of our work will benefit from us being happy and healthy, so let’s not rob ourselves of that by being too caught up in work.
-    
 
 <br>
 <br>
@@ -162,25 +154,25 @@ The Superhero is always trying to work harder than everyone else to cover up fee
 Also known as “The Soloist”, the “Rugged Individualist” will often avoid asking for help because they see it as a sign of weakness and believe it would expose them as a fraud.
 
 <span style="font-size:1.3rem">Advice:</span>
+
 - No one exists in a vacuum. We are all intrinsically connected and we uphold each other through those connections.
 
-- Knowing when to ask for help is a vital skill and will earn us respect and humility amongst our peers. 
+- Knowing when to ask for help is a vital skill and will earn us respect and humility amongst our peers.
 
 - If we’re working alone, we can’t help anyone else either. We’re denying the world the benefit of our knowledge and if we allow others to help us, our ideas will blossom much more readily. Two heads are better than one and many hands make light work.
 
-
 <br>
 <br>
-
 
 <span style="font-size:1.5rem">4. </span><span style="font-size:1.3rem">The “Natural Genius”</span>
 
 The “Natural Genius” believes that if something costs them a lot of effort, it must mean that they are bad at it. They are reluctant to accept help from others and are too afraid of failure to try new things.
 
 <span style="font-size:1.3rem">Advice:</span>
-- Try measuring successes by the effort put into them and acknowledge the fact that no one can be great at everything. 
 
-- Instead of avoiding challenges see them as opportunities to learn and develop. 
+- Try measuring successes by the effort put into them and acknowledge the fact that no one can be great at everything.
+
+- Instead of avoiding challenges see them as opportunities to learn and develop.
 
 - Use areas of expertise to help others grow and learn
 
@@ -194,9 +186,10 @@ The "Expert" is so caught up on the notion of achieving mastery of a skill that 
 They may feel like they actually have no right to the job they're doing and are just waiting their peers to find out how incompetent they really are. Perhaps They don’t even apply to certain jobs because They don’t have every single skill they mentioned in the job description.
 
 <span style="font-size:1.3rem">Advice:</span>
+
 - Skill gaps are normal and they don’t detract from what we already know
 
-- There are many people out there applying because they have most of the skills required and are quite happy to develop the others on the job. 
+- There are many people out there applying because they have most of the skills required and are quite happy to develop the others on the job.
 
 - Focus on existing skills and strengths , consciously note successes and making realistic plans to fill in any gaps.
 
@@ -204,9 +197,10 @@ They may feel like they actually have no right to the job they're doing and are 
 <br>
 
 ---
+
 <br>
 
-## Imposter Syndrome is incredibly common. We should always try not to be compassionate with ourselves when learning something new. Everyone is unique and learns things in their own way and at their own pace. 
+## Imposter Syndrome is incredibly common. We should always try not to be compassionate with ourselves when learning something new. Everyone is unique and learns things in their own way and at their own pace.
 
 <br>
 
@@ -239,20 +233,18 @@ To avoid Imposter Syndrome in its many forms, celebrate small successes, take fr
 <br>
 <br>
 
-
-
 ---
 
 <table style="width:100%">
     <tr>
         <td align="left">
-        < PREVIOUS SECTION
+            <a href="./chunking_and_spaced_review.md"> < 5. Chunking & Spaced Review </a>
         </td>
-        <td>
-        <a href="#top">Back to top &mapstoup;</a>
+        <td align="center">
+            <a href="#top">Back to top &mapstoup;</a>
         </td>
         <td align="right">
-        NEXT SECTION >
+            <a href="./procrastination.md"> 7. Procrastination > </a>
         </td>
     </tr>
 </table>

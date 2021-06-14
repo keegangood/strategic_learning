@@ -3,7 +3,6 @@
 
 </p>
 
-
 <center>
     <span style="font-size:2rem">The Mind-Body Connection</span><br>
     <a href="#tldr">TL;DR</a>
@@ -13,12 +12,11 @@
 
 <br>
 
+When beginning the process of learning something new, it’s important to point out the inescapable connection between body and mind.
 
-When beginning the process of learning something new, it’s important to point out the inescapable connection between body and mind. 
+Between reading books, taking notes, analyzing data, reciting information, and drawing connections between topics, it’s easy to become so engrossed in studying that we begin to neglect our basic needs. We forget to drink enough water, stand up and get our hearts pumping, or practice focusing our eyes on subjects beyond our computer screen.
 
-Between reading books, taking notes, analyzing data, reciting information, and drawing connections between topics, it’s easy to become so engrossed in studying that we begin to neglect our basic needs. We forget to drink enough water, stand up and get our hearts pumping, or practice focusing our eyes on subjects beyond our computer screen. 
-
-Our brains need blood flow and proper hydration to work at their peak efficiency and our spirits need new and varied experiences to stay motivated and curious. 
+Our brains need blood flow and proper hydration to work at their peak efficiency and our spirits need new and varied experiences to stay motivated and curious.
 
 <p align="center">
 
@@ -32,10 +30,9 @@ Our brains need blood flow and proper hydration to work at their peak efficiency
         Motivation
 </center>
 
-
 </p>
 
-Because exercise prepares and encourages nerve cells to bind to one another, it spurs the development of new connections in the brain. In short, **not only does exercise help the brain get ready to learn but it actually makes retaining information easier.**    
+Because exercise prepares and encourages nerve cells to bind to one another, it spurs the development of new connections in the brain. In short, **not only does exercise help the brain get ready to learn but it actually makes retaining information easier.**
 
 <br>
 
@@ -43,11 +40,11 @@ Because exercise prepares and encourages nerve cells to bind to one another, it 
     <h2>Let’s Get Moving!</h2>
 </center>
 
-According to the *World Health Organization*, **adults 18-64** years of age should participate in **two and a half to five hours** of moderate physical activity each week (about **thirty minutes, five days a week**) in order to maintain a baseline of physical and mental health.
+According to the _World Health Organization_, **adults 18-64** years of age should participate in **two and a half to five hours** of moderate physical activity each week (about **thirty minutes, five days a week**) in order to maintain a baseline of physical and mental health.
 
 In addition, adults should intake **two to four liters of water** a day. This amount may vary depending on activity levels, environment and overall health, but it is a good goal to shoot for.
 
-Maintaining a healthy lifestyle will compliment one’s learning process and lead to deeper understanding of the material with less stress. 
+Maintaining a healthy lifestyle will compliment one’s learning process and lead to deeper understanding of the material with less stress.
 
 <br>
 
@@ -57,15 +54,13 @@ Maintaining a healthy lifestyle will compliment one’s learning process and lea
 
 Too much sedentary time in front of screens can have detrimental effects on our physical and mental well-being.
 
-In a study of 20,000 people, the European Centre for Environment & Human Health at the University of Exeter found that **people who spent at least *two hours a week* in green spaces like local parks or other natural environments were substantially more likely to report good health and psychological well-being than those who didn’t.**
+In a study of 20,000 people, the European Centre for Environment & Human Health at the University of Exeter found that **people who spent at least _two hours a week_ in green spaces like local parks or other natural environments were substantially more likely to report good health and psychological well-being than those who didn’t.**
 
 <br>
-
 
 <center>
     <a href="#top">Back to top &mapstoup;</a>
 </center>
-
 
 ---
 
@@ -102,8 +97,6 @@ In a survey by the American Optometric Association...
 
 <br>
 
-
-
 <center>
     <h3>These things will also increase the risk of CVS: </h3>
         Screen glare   <br>
@@ -115,8 +108,8 @@ In a survey by the American Optometric Association...
 </center>
 
 <br><br>
- 
-Computer Vision Syndrome is a result of poor screen-usage habits and in order to undo their effects, they must be corrected and replaced with healthier patterns of behavior. 
+
+Computer Vision Syndrome is a result of poor screen-usage habits and in order to undo their effects, they must be corrected and replaced with healthier patterns of behavior.
 
 Luckily, the strategies for combating Computer Vision Syndrome are easy to implement and require only small adjustments to begin practicing them.
 
@@ -125,8 +118,7 @@ Luckily, the strategies for combating Computer Vision Syndrome are easy to imple
 ## Here are three of the simplest changes we can make to our routine:
 
 <span style="font-size:1.5rem">1. </span><span style="font-size:1.3rem">Drink more water</span></h1>
-Our bodies are mostly water, and our eyes are no exception. Keeping ourselves hydrated will help our eyes to produce the tears necessary to lubricate them. 
-
+Our bodies are mostly water, and our eyes are no exception. Keeping ourselves hydrated will help our eyes to produce the tears necessary to lubricate them.
 
 <br>
 <br>
@@ -137,8 +129,6 @@ Our bodies are mostly water, and our eyes are no exception. Keeping ourselves hy
 <br>
 
 <span style="font-size:1.5rem">2. </span><span style="font-size:1.3rem">Adjust Screen Distance and Angle</span>
-
-
 
 <table>
     <tr>
@@ -166,17 +156,10 @@ Our bodies are mostly water, and our eyes are no exception. Keeping ourselves hy
         </td>
     </tr>
 
-
-
-
 </table>
 
 <br>
 <br>
-
-
-
-
 
 <span style="font-size:1.5rem">3. </span><span style="font-size:1.3rem">Practice the "10-20-20" Rule</span>
 
@@ -184,9 +167,9 @@ Our bodies are mostly water, and our eyes are no exception. Keeping ourselves hy
 
 <p align="center"><img src="./images/20_20_20_rule.drawio.svg" width=200/></p>
 
-The “20-20-20” Rule is a technique designed to help alleviate the symptoms of Computer Vision Syndrome. 
+The “20-20-20” Rule is a technique designed to help alleviate the symptoms of Computer Vision Syndrome.
 
-According to the “20-20-20” Rule, after every **twenty-minute working interval**, we should focus our eyes on a subject at least **twenty feet away** for at least **twenty seconds**. 
+According to the “20-20-20” Rule, after every **twenty-minute working interval**, we should focus our eyes on a subject at least **twenty feet away** for at least **twenty seconds**.
 
 This helps strengthen the muscles responsible for seeing far away and prevents the muscles around the eyes from becoming too accustomed to only focusing at a short distance.
 
@@ -207,7 +190,7 @@ Click [here](./combatting_computer_vision_syndrome.md) for more ideas for combat
     <h2>Blue Light & Sleep</h2>
 </center>
 
-As technology evolves, people are growing more and more accustomed to a digital lifestyle. As our use of smartphones, tablets, LED monitors and flatscreen TVs increases, so does our exposure to blue light. While the amount of blue-colored light we take in might not seem that important, too much exposure to blue light can have a wide range of negative health effects. 
+As technology evolves, people are growing more and more accustomed to a digital lifestyle. As our use of smartphones, tablets, LED monitors and flatscreen TVs increases, so does our exposure to blue light. While the amount of blue-colored light we take in might not seem that important, too much exposure to blue light can have a wide range of negative health effects.
 
 <br>
 <br>
@@ -221,13 +204,13 @@ As technology evolves, people are growing more and more accustomed to a digital 
     <h3>Circadian Rhythm</h3>
 </center>
 
-Often referred to as our <span style="font-size:1.2rem">“biological clock”</span>, our **circadian rhythm** is a **finely-tuned, 24-hour cycle** that helps our bodies know when to carry out essential functions like eating and sleeping. 
+Often referred to as our <span style="font-size:1.2rem">“biological clock”</span>, our **circadian rhythm** is a **finely-tuned, 24-hour cycle** that helps our bodies know when to carry out essential functions like eating and sleeping.
 
-The phrase gets its name from the Latin <span style="font-size:1.2rem">"circa diem"</span>, meaning <span style="font-size:1.2rem">"around a day"</span>. 
+The phrase gets its name from the Latin <span style="font-size:1.2rem">"circa diem"</span>, meaning <span style="font-size:1.2rem">"around a day"</span>.
 
-Light is the most important factor in aligning circadian rhythms. While all types of visible light can affect circadian rhythms, blue light has the largest impact. For much of human history, our sleep cycles were closely aligned with sunrise and sunset, but with the advent of artificial light and electronics, we are being exposed to increasing amounts of light before bedtime. 
+Light is the most important factor in aligning circadian rhythms. While all types of visible light can affect circadian rhythms, blue light has the largest impact. For much of human history, our sleep cycles were closely aligned with sunrise and sunset, but with the advent of artificial light and electronics, we are being exposed to increasing amounts of light before bedtime.
 
-Blue light suppresses the body’s release of melatonin, a hormone that makes us feel drowsy. While this may be useful during the day, it becomes unhelpful at night when we’re trying to sleep. 
+Blue light suppresses the body’s release of melatonin, a hormone that makes us feel drowsy. While this may be useful during the day, it becomes unhelpful at night when we’re trying to sleep.
 
 **Being exposed to blue light in the evening can trick our brain into thinking it’s still daytime**, disrupting circadian rhythms and leaving us feeling alert instead of tired.
 
@@ -244,7 +227,7 @@ Blue light suppresses the body’s release of melatonin, a hormone that makes us
 <br>
 <br>
 
-An improper sleep schedule can lead to a multitude of other chronic health problems, such as depression, anxiety, high blood pressure, and even certain types of cancer, so we can definitely start to see the importance of doing everything we can to promote healthy sleep. 
+An improper sleep schedule can lead to a multitude of other chronic health problems, such as depression, anxiety, high blood pressure, and even certain types of cancer, so we can definitely start to see the importance of doing everything we can to promote healthy sleep.
 
 <center>
     <h3>Poor sleep habits can lead to: </h3>
@@ -258,15 +241,14 @@ An improper sleep schedule can lead to a multitude of other chronic health probl
 
 <br>
 
+Animal and human studies suggest that the quantity and quality of sleep have a profound impact on learning. Sleep is important for storing memories and acts to restore and refresh our mental faculties.
 
-Animal and human studies suggest that the quantity and quality of sleep have a profound impact on learning. Sleep is important for storing memories and acts to restore and refresh our mental faculties. 
+Throughout the day, our brains produce a toxic protein called **beta-amyloid**, which can be found in high concentrations in people suffering from Alzheimer’s Disease.
 
-Throughout the day, our brains produce a toxic protein called **beta-amyloid**, which can be found in high concentrations in people suffering from Alzheimer’s Disease. 
-
-As this protein accumulates, it can leave us in a mental fog, impairing our ability to think clearly and preventing us from recalling information. The deepest stages of sleep cause our brain cells to shrink enough to allow these toxins to be flushed, leaving us feeling refreshed and ready to tackle the day ahead.  
-
+As this protein accumulates, it can leave us in a mental fog, impairing our ability to think clearly and preventing us from recalling information. The deepest stages of sleep cause our brain cells to shrink enough to allow these toxins to be flushed, leaving us feeling refreshed and ready to tackle the day ahead.
 
 Lack of sleep impairs reasoning, problem-solving, attention to detail, and more.
+
 <center>
     <h3>Lack of Sleep Impairs: </h3>
         Reasoning   <br>
@@ -276,12 +258,10 @@ Lack of sleep impairs reasoning, problem-solving, attention to detail, and more.
         And more... <br>
 </center>
 
-
 <br>
 <br>
 
-For some strategies to improve sleep habits, check out the [Tips for Better Sleep](tips_for_better_sleep.md
-).
+For some strategies to improve sleep habits, check out the [Tips for Better Sleep](tips_for_better_sleep.md).
 
 <br>
 
@@ -297,7 +277,7 @@ For some strategies to improve sleep habits, check out the [Tips for Better Slee
     <h2 id="tldr">TL;DR</h2>
 </center>
 
-Maintaining a baseline of physical health will benefit any learning endeavor. Developing a habit of interspersing a few minutes of activity between study or work sessions will lead to desirable outcomes in terms of retaining new information. Spending time outdoors and getting enough quality sleep both support overall health and will improve our learning results as well. 
+Maintaining a baseline of physical health will benefit any learning endeavor. Developing a habit of interspersing a few minutes of activity between study or work sessions will lead to desirable outcomes in terms of retaining new information. Spending time outdoors and getting enough quality sleep both support overall health and will improve our learning results as well.
 
 Adults should shoot for **thirty minutes of exercise, five days a week** and should aim to **drink between two and three liters of water a day**.
 
@@ -305,20 +285,18 @@ Adults should shoot for **thirty minutes of exercise, five days a week** and sho
 
 <br>
 
-
-
 ---
 
 <table style="width:100%">
     <tr>
         <td align="left">
-        < PREVIOUS SECTION
+            <a href="./"> < Introduction </a>
         </td>
-        <td>
-        <a href="#top">Back to top &mapstoup;</a>
+        <td align="center">
+            <a href="#top">Back to top &mapstoup;</a>
         </td>
         <td align="right">
-        NEXT SECTION >
+            <a href="./the_brain_and_memory.md"> 2. The Brain & Memory > </a>
         </td>
     </tr>
 </table>

@@ -223,13 +223,13 @@ As with all habits, procrastination takes effort to undo. Through strategies lik
 <table style="width:100%">
     <tr>
         <td align="left">
-        < PREVIOUS SECTION
+            <a href="./cognitive_biases.md"> < 6. Cognitive Biases </a>
         </td>
-        <td>
+        <td align="center">
             <a href="#top">Back to top &mapstoup;</a>
         </td>
         <td align="right">
-        NEXT SECTION >
+            <a href="./practical_study_techniques.md"> 8. Practical Study Techniques > </a>
         </td>
     </tr>
 </table>

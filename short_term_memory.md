@@ -62,17 +62,19 @@ Our short-term memory can only hold a few pieces of information at a time. To av
 
 <br>
 
---- 
+---
+ 
 <table style="width:100%">
     <tr>
         <td align="left">
-        < PREVIOUS SECTION
+            <a href="./the_brain_and_memory.md"> < 3. The Brain & Memory </a>
         </td>
-        <td>
+        <td align="center">
             <a href="#top">Back to top &mapstoup;</a>
         </td>
         <td align="right">
-        NEXT SECTION >
+            <a href="./chunking_and_spaced_review.md"> 5. Chunking and Spaced Review > </a>
         </td>
     </tr>
 </table>
+
