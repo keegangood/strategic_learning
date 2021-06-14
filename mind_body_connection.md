@@ -1,12 +1,12 @@
 <p align="center" id="top">
 <img src="./images/pdx_code_guild_logo.svg" width=100/>
-
 </p>
 
-<center>
-    <span style="font-size:2rem">The Mind-Body Connection</span><br>
+<p align="center">
+    <span style="font-size:2rem">The Mind-Body Connection</span>
+    <br>
     <a href="#tldr">TL;DR</a>
-</center>
+</p>
 
 ---
 
@@ -18,19 +18,18 @@ Between reading books, taking notes, analyzing data, reciting information, and d
 
 Our brains need blood flow and proper hydration to work at their peak efficiency and our spirits need new and varied experiences to stay motivated and curious.
 
-<p align="center">
 
-<center>
-    <h3>Physical activity enhances and optimizes:</h3>
-        Thinking   
-        Learning   <br>
-        Judgment   <br>
-        Alertness  <br>
-        Attention  <br>
-        Motivation
-</center>
+<h3 align="center">Physical activity enhances and optimizes:</h3>
 
-</p>
+<div align="center">Thinking  </div> 
+<div align="center">Learning  </div>
+<div align="center">Judgment  </div>
+<div align="center">Alertness </div>
+<div align="center">Attention </div>
+<div align="center">Motivation</div>
+
+<br/>
+<br/>
 
 Because exercise prepares and encourages nerve cells to bind to one another, it spurs the development of new connections in the brain. In short, **not only does exercise help the brain get ready to learn but it actually makes retaining information easier.**
 
