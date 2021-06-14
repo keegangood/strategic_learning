@@ -1,13 +1,18 @@
-<p align="center">
-<img src="./images/pdx_code_guild_logo.svg" width=200/>
-
-</p>
+<center>
+    <img src="./images/pdx_code_guild_logo.svg" width=200/>
+<center>
 
 ---
 
-<h1 align="center">Strategic Learning</h1>
-<h2 align="center">A Practical Approach to Conitued Education</h2>
+<center>
 
+## Strategic Learning
+
+### A Practical Approach to Conitued Education
+
+</center>
+
+<br>
 Welcome to the PDX Code Guild and thanks for joining us in our Strategic Learning course, which break down some of the key elements of what it means to learn.
 
 We’ll take a look at the physiology behind learning, including how new memories are formed and the parts of the brain that are involved in encoding them as well as the important role that physical health plays in our ability to absorb and retain new information.
