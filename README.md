@@ -35,12 +35,13 @@ At PDX Code Guild, our mission is to cultivate our students' confidence in their
 <br/>
 
 <center>
-    <h2>Table of Contents</h2>
+
+## Table of Contents
 </center>
 
 <br>
 
-1. <a href="./mind_body_connection.md">The Mind-Body Connection</a>
+1. [The Mind-Body Connection](./mind_body_connection.md")
 
 2. <a href="./the_brain_and_memory.md">The Brain & Memory</a>
 
