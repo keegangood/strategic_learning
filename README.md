@@ -37,6 +37,7 @@ At PDX Code Guild, our mission is to cultivate our students' confidence in their
 <center>
 
 ## Table of Contents
+
 </center>
 
 
