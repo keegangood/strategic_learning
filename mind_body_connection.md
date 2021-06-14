@@ -2,11 +2,9 @@
 <img src="./images/pdx_code_guild_logo.svg" width=100/>
 </p>
 
-<p align="center">
-    <span style="font-size:2rem">The Mind-Body Connection</span>
-    <br>
-    <a href="#tldr">TL;DR</a>
-</p>
+<h2 align="center">The Mind-Body Connection</h2>
+
+<p align="center"><a href="#tldr">TL;DR</a><br></p>
 
 ---
 
@@ -286,16 +284,10 @@ Adults should shoot for **thirty minutes of exercise, five days a week** and sho
 
 ---
 
-<table style="width:100%">
-    <tr>
-        <td align="left">
-            <a href="./"> < Introduction </a>
-        </td>
-        <td align="center">
-            <a href="#top">Back to top &mapstoup;</a>
-        </td>
-        <td align="right">
-            <a href="./the_brain_and_memory.md"> 2. The Brain & Memory > </a>
-        </td>
-    </tr>
-</table>
+<br>
+
+<div align="center">
+    <a href="./"> < Introduction </a> | 
+    <a href="#top">Back to top &mapstoup;</a> |
+    <a href="./the_brain_and_memory.md">2. The Brain & Memory ></a>
+</div>
