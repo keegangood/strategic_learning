@@ -2,12 +2,12 @@
     <img src="./images/pdx_code_guild_logo.svg" width=200/>
 <p>
 
+
+<h2 align="center">Strategic Learning</h2>
+
+<h3 align="center">A Practical Approach to Conitued Education</h3>
+
 ---
-
-<h1 align="center"> Strategic Learning</h1>
-
-<h2 align="center">A Practical Approach to Conitued Education</h2>
-
 <br>
 Welcome to the PDX Code Guild and thanks for joining us in our Strategic Learning course, which break down some of the key elements of what it means to learn.
 
