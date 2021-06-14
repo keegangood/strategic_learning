@@ -4,13 +4,10 @@
 
 ---
 
-<p align="center>
-
-## Strategic Learning
-
-### A Practical Approach to Conitued Education
-
-</p>
+<center>
+<h1> Strategic Learning</h1>
+<h2>A Practical Approach to Conitued Education</h2>
+</center>
 
 <br>
 Welcome to the PDX Code Guild and thanks for joining us in our Strategic Learning course, which break down some of the key elements of what it means to learn.
@@ -36,24 +33,23 @@ At PDX Code Guild, our mission is to cultivate our students' confidence in their
 
 ## Table of Contents
 
-
 1.  [The Mind-Body Connection](./mind_body_connection.md")
 
 2.  [The Brain & Memory](./the_brain_and_memory.md)
 
-3. <a href="./modes_of_thinking.md">Modes of Thinking</a>
+3.  <a href="./modes_of_thinking.md">Modes of Thinking</a>
 
-4. <a href="./short_term_memory.md">Short-term Memory</a>
+4.  <a href="./short_term_memory.md">Short-term Memory</a>
 
-5. <a href="./chunking_and_spaced_review.md">Chunking & Spaced Review</a>
+5.  <a href="./chunking_and_spaced_review.md">Chunking & Spaced Review</a>
 
-6. <a href="./cognitive_biases.md">Cognitive Biases</a>
+6.  <a href="./cognitive_biases.md">Cognitive Biases</a>
 
-7. <a href="./procrastination.md">Procrastination</a>
+7.  <a href="./procrastination.md">Procrastination</a>
 
-8. <a href="./practical_study_techniques.md">Practical Study Techniques</a>
+8.  <a href="./practical_study_techniques.md">Practical Study Techniques</a>
 
-9. <a href="./pdx_code_guild.md">PDX Code Guild</a>
+9.  <a href="./pdx_code_guild.md">PDX Code Guild</a>
 
 <br><br>
 
