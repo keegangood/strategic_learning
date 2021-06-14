@@ -5,6 +5,7 @@
 ---
 
 <h1 align="center"> Strategic Learning</h1>
+
 <h2 align="center">A Practical Approach to Conitued Education</h2>
 
 <br>
@@ -31,7 +32,7 @@ At PDX Code Guild, our mission is to cultivate our students' confidence in their
 
 ## Table of Contents
 
-1.  [The Mind-Body Connection](./mind_body_connection.md")
+1.  [The Mind-Body Connection](./mind_body_connection.md)
 
 2.  [The Brain & Memory](./the_brain_and_memory.md)
 
