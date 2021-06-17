@@ -104,7 +104,7 @@ Our community of advisors, instructors and alumni, are what set us apart from ot
 
 
 <div align="center">
-    <a href="./8_practical_study_techniques.md"> < 7. Practical Study Techniques </a>
+    <a href="./8_practical_study_techniques.md"> < 8. Practical Study Techniques </a>
 </div>
 
 
