@@ -277,3 +277,9 @@ Information that is unconsciously learned and recalled automatically. These memo
     <a href="#top">Back to top &mapstoup;</a> |
     <a href="./3_modes_of_thinking.md">3. Modes of Thinking ></a>
 </div>
+
+
+<br>
+<br>
+
+[<< Table of Contents]("./")

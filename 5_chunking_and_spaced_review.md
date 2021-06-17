@@ -2,24 +2,24 @@
 <img src="./images/pdx_code_guild_logo.svg" width=100/>
 
 </p>
-<center>
-    <span style="font-size:2rem">Chunking & Spaced Review</span><br>
-    <a href="#tldr">TL;DR</a>
-</center>
+<div align="center">
+    
+## Chunking & Spaced Review <br>
+<a href="#tldr">TL;DR</a>
+</div>
 
 ---
+<div align="center">
 
-<center>
-    <h2>Chunking</h2>
-</center>
-
+## Chunking
+</div>
 <br>
 
-<p align="center"><img src="./images/chunking/chunking.drawio.svg" width=400/></p>
+<div align="center"><img src="./images/chunking/chunking.drawio.svg" width=400/></div>
 
 When we’re trying to learn complex information, it helps to separate related data into smaller groups to make it easier to process.
 
-We can break up the concepts using a technique called <span style="font-size:1.3rem">chunking</span>.
+We can break up the concepts using a technique called **chunking**.
 
 Meaningful bits of information, or **chunks**, are grouped together so that the brain can more easily encode and relate that information to previous knowledge, which makes it easier to recall later.
 
@@ -27,49 +27,64 @@ Meaningful bits of information, or **chunks**, are grouped together so that the 
 
 ## The process of chunking can be broken down into the following steps:
 
-<span style="font-size:1.5rem">1. </span><span style="font-size:1.3rem">Look at the big picture</span>
+## 1. Look at the big picture</span>
 
 Take an overview of the subject as a whole to see where the information might lead. Don’t pay particular attention to any details.
 
-<span style="font-size:1.5rem">2. </span><span style="font-size:1.3rem">Break big ideas up into smaller ideas</span>
+<br>
+
+## 2. Break big ideas up into smaller ideas</span>
 
 Take a look at the core topics and try to anticipate what type of information might be covered in each one.
 
-<span style="font-size:1.5rem">3. </span><span style="font-size:1.3rem">Focus on one small concept at a time</span>
+<br>
+
+## 3. Focus on one small concept at a time</span>
 
 Study and practice recalling the particular ideas within the smaller concept, perhaps even forgetting about the big picture for a moment to really pay attention to the details.
 
-<span style="font-size:1.5rem">4. </span><span style="font-size:1.3rem">Apply smaller ideas in a variety of contexts</span>
+<br>
+
+## 4. Apply smaller ideas in a variety of contexts</span>
 
 This will solidify understanding of the smaller ideas and start to open up the avenues for forming connections between smaller parts of the overall topic.
 
-<span style="font-size:1.5rem">5. </span><span style="font-size:1.3rem">Organize the smaller ideas into larger ideas</span>
+<br>
+
+## 5. Organize the smaller ideas into larger ideas</span>
 
 Once we start to recognize patterns in the information, we can group smaller ideas together to attempt to recreate the complexity of the original subject.
 
-<span style="font-size:1.5rem">6. </span><span style="font-size:1.3rem">Relate each larger idea back to the original concept and to other smaller concepts</span>
+<br>
+
+## 6. Relate each larger idea back to the original concept and to other smaller concepts</span>
 
 Consider each chunk’s place in the overall subject and how it ties into the previously studied chunks
 
-<span style="font-size:1.5rem">7. </span><span style="font-size:1.3rem">Repeat as many times as necessary</span>
+<br>
+
+## 7. Repeat as many times as necessary</span>
 
 Regular review of the information will ensure quick and accurate recall of the information when needed.
 
 <br>
 
+<br>
+
 ---
 
-<center>
-    <h2>Chunking Example</h2>
-</center>
-
-Imagine that we're given a string of characters and told to count how many dollar signs <span style="font-size:1.5rem">$</span> appear in the string.
+## Chunking Example
 
 <br>
 
-<center>
-    <span style="font-size:2rem">?$*@?$#*??$#**@$@#?*@#$#@</span>
-</center>
+Imagine that we're given a string of characters and told to count how many dollar signs **$** appear in the string.
+
+<br>
+
+<div align="center">
+
+## ?$*@?$#*??$#**@$@#?*@#$#@
+</div>
 
 <br>
 
@@ -79,32 +94,32 @@ However, if we take a moment to sort the string by character:
 
 <br>
 
-<center>
-    <span style="font-size:2rem">##### ????? ***** $$$$$ @@@@@</span>
-</center>
+<div align="center">
+    
+## ##### ????? ***** $$$$$ @@@@@</span>
+</div>
 
 <br>
 
 We can see, at a glance that there are **five** dollar signs and it would make counting the other characters much simpler as well.
 
-<center>
-    <span style="font-size:1.3rem">What a big difference a little organization makes!</span>
-</center>
+### What a big difference a little organization makes!</span>
+
 <br>
 
-<center>
+<div align="center">
     <a href="#top">Back to top &mapstoup;</a>
-</center>
+</div>
 
 ---
 
-<center>
-    <h2>Spaced Review</h2>
-</center>
+<div align="center">
 
+## Spaced Review
+</div>
 <br>
 
-<p align="center"><img src="./images/spaced_review.drawio.svg"/></p>
+<div align="center"><img src="./images/spaced_review.drawio.svg"/></div>
 
 <br>
 
@@ -120,9 +135,7 @@ Reviewing also slows the forgetting curve, helping us retain more information fo
 
 ---
 
-<center>
-    <h2 id="tldr">TL;DR</h2>
-</center>
+<h2 id="tldr">TL;DR</h2>
 
 <br>
 
@@ -136,16 +149,14 @@ Even after breaking information up, if we want the information to become second 
 
 ---
 
-<table style="width:100%">
-    <tr>
-        <td align="left">
-            <a href="./short_term_memory.md"> < 4. Short-Term Memory </a>
-        </td>
-        <td align="center">
-            <a href="#top">Back to top &mapstoup;</a>
-        </td>
-        <td align="right">
-            <a href="./cognitive_biases.md"> 6. Cognitive Biases > </a>
-        </td>
-    </tr>
-</table>
+<div align="center">
+    <a href="./4_short_term_memory.md"> < 4. Short-Term Memory </a> | 
+    <a href="#top">Back to top &mapstoup;</a> |
+    <a href="./6_cognitive_biases.md">6. Cognitive Biases ></a>
+</div>
+
+
+<br>
+<br>
+
+[<< Table of Contents]("./")

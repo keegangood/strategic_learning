@@ -142,9 +142,9 @@ Once we enter the deeper stages of sleep, the memories we’ve processed in our 
 </div>
 
 ---
-
+<div align="center">
 <h2 id="tldr">TL;DR</h2>
-
+</div>
 <br>
 
 
@@ -196,3 +196,7 @@ Intentionally retrieving information after it’s been committed to memory.
     <a href="./4_short_term_memory.md">4. Short-Term Memory ></a>
 </div>
 
+<br>
+<br>
+
+[<< Table of Contents]("./")
