@@ -18,10 +18,10 @@ However, this is when we must remember the difference and recognize the benefits
 <br>
 <br>
 
-<center>
+<div align="center">
 
 ## Focused Thinking
-</center>
+</div>
 
 Focused thinking is when the mind concentrates intently on a particular subject. We immerse ourselves in the information and actively expend energy towards learning it.
 
