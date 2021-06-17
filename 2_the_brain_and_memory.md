@@ -31,7 +31,9 @@ While the entire brain is interwoven with memories stored throughout all areas, 
 
 <br>
 
-<img align="center" src="./images/the_brain.drawio.svg"/>
+<div align="center">
+<img src="./images/the_brain.drawio.svg"/>
+</div>
 
 <br>
 <br>
