@@ -21,7 +21,7 @@ Don’t worry though, no one is alone in this. Studies show that up to **88%** o
 <br>
 <br>
 
-<p align="center"><img src="./images/procrastination.drawio.svg" width=400/></p>
+<p align="center"><img src="./images/procrastination.drawio.svg"/></p>
 
 
 <br>
