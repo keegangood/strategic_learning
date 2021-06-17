@@ -275,5 +275,5 @@ Before beginning the next section, consider doing something that raises your hea
 <div align="center">
     <a href="./"> < Introduction </a> | 
     <a href="#top">Back to top &mapstoup;</a> |
-    <a href="./the_brain_and_memory.md">2. The Brain & Memory ></a>
+    <a href="./2_the_brain_and_memory.md">2. The Brain & Memory ></a>
 </div>
