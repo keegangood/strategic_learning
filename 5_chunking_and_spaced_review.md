@@ -163,5 +163,5 @@ Even after breaking information up, if we want the information to become second 
 
 <div align="center">
 
-[<< Table of Contents](/) | [Visit our website >>](www.pdxcodeguild.com)
+[<< Table of Contents](/) | [Visit our website >>](http://www.pdxcodeguild.com)
 </div>
