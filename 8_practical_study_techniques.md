@@ -39,23 +39,15 @@ The technique works like this:
 
 ### 1. Work for twenty-five minutes
 
-<br>
-
 ### 2. Take a five minute break
 
 Stretch, exercise, drink water, or practice the "20-20-20 Rule"
 
-<br>
-
 ### 3. Repeat steps 1 and 2 three more times
-
-<br>
 
 ### 4. Take a twenty minute break
 
 Avoid screens and other distractions! Practice some diffuse thinking by going for a walk, taking a nap, meditating, or breathing deeply. Reward yourself for completing some work!
-
-<br>
 
 ### 5. Return to step 1
 
