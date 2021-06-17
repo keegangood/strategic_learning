@@ -61,6 +61,8 @@ There are four main architypes for procrastination.
 
 This procrastinator forces themselves to focus by shrinking the time they have to tackle a task. They wait until the last second to begin and frantically rush to meet the deadline.
 
+<br>
+
 **Biggest challenge:** Getting started
 
 **Your solution:** Focus on a time to begin a task, not when it needs to be done This will take a tremendous amount of pressure off of the situation.
@@ -71,6 +73,8 @@ This procrastinator forces themselves to focus by shrinking the time they have t
 ### 2. The Self-Deprecator
 
 This procrastinator tends to blame inaction on laziness or stubbornness rather than admit they are tired. When they don't do something they are extra hard on themselves.
+
+<br>
 
 **Biggest challenge:**  Taking a break.
 
@@ -85,6 +89,8 @@ This procrastinator is a pro at filling up their calendar and is often overwhelm
 
 Rather than facing a challenge head on or admitting they don't want to do something, it's easier to place the blame on having other important things to do. 
 
+<br>
+
 **Your biggest challenge:**  Creating chaos to avoid facing what we know we need to face right now.
 
 **Your solution:** Take a moment of introspection. Ask: What am I really avoiding?
@@ -93,11 +99,13 @@ Rather than facing a challenge head on or admitting they don't want to do someth
 <br>
 <br>
 
-### 3. The Novelty Seeker
+### 4. The Novelty Seeker
 
 This procrastinator is constantly coming up with new projects to take on — and then getting bored with them a week later. They're intrigued by the latest trend and will be quick to implement but not follow through. 
 
 They are great at making decisions and taking action. However, they end up inadvertently losing a lot of time and burning out because they don't take consistent action in one direction long enough to see results.
+
+<br>
 
 **Your biggest challenge:** Completion.
 
@@ -107,15 +115,14 @@ They are great at making decisions and taking action. However, they end up inadv
 <br>
 
 ---
+<div align="center">
 
-<center>
-    <h2>Overcoming Procrastination</h2>
-</center>
-
+## Overcoming Procrastination
+</div>
 <br>
 
 
-## Be Kind to Yourself
+### Be Kind to Yourself
 
 **We can’t beat ourselves up about procrastinating.** We must acknowledge the desire to procrastinate, sit with it for a moment, take a deep breath and make the conscious decision not to follow that desire.
 
@@ -145,10 +152,8 @@ For instance, instead of saying,
 
 <br>
 
-<div align="center">
 
 **“I have plenty of time, why start now?”**
-</div> 
 
 <br>
 
@@ -156,10 +161,8 @@ we could say,
 
 <br>
 
-<div align="center">
 
 **“I have plenty of time, but I’ll feel better if I don’t wait until the last minute.”**
-</div> 
 
 <br>
 
