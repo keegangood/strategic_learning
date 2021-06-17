@@ -110,5 +110,5 @@ Our community of advisors, instructors and alumni, are what set us apart from ot
 
 <div align="center">
 
-[<< Table of Contents]("./") | [Visit our website >>](www.pdxcodeguild.com)
+[<< Table of Contents](/) | [Visit our website >>](www.pdxcodeguild.com)
 </div>

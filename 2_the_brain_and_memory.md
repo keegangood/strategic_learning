@@ -275,5 +275,5 @@ Information that is unconsciously learned and recalled automatically. These memo
 
 <div align="center">
 
-[<< Table of Contents]("./") | [Visit our website >>]("www.pdxcodeguild.com")
+[<< Table of Contents](/) | [Visit our website >>](www.pdxcodeguild.com)
 </div>

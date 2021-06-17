@@ -255,5 +255,5 @@ As with all habits, procrastination takes effort to undo. Through strategies lik
 
 <div align="center">
 
-[<< Table of Contents]("./") | [Visit our website >>]("www.pdxcodeguild.com")
+[<< Table of Contents](/) | [Visit our website >>](www.pdxcodeguild.com)
 </div>

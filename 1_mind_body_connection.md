@@ -291,5 +291,5 @@ Before beginning the next section, consider doing something that raises your hea
 
 <div align="center">
 
-[<< Table of Contents]("./") | [Visit our website >>]("www.pdxcodeguild.com")
+[<< Table of Contents](/) | [Visit our website >>](www.pdxcodeguild.com)
 </div>

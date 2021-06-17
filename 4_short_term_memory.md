@@ -94,5 +94,5 @@ Our short-term memory can only hold a few pieces of information at a time. To av
 
 <div align="center">
 
-[<< Table of Contents]("./") | [Visit our website >>]("www.pdxcodeguild.com")
+[<< Table of Contents](/) | [Visit our website >>](www.pdxcodeguild.com)
 </div>
