@@ -248,5 +248,5 @@ To avoid Imposter Syndrome in its many forms, celebrate small successes, take fr
 
 <div align="center">
 
-[<< Table of Contents](/) | [Visit our website >>](http://www.pdxcodeguild.com)
+[<< Table of Contents](/README.md) | [Visit our website >>](http://www.pdxcodeguild.com)
 </div>
