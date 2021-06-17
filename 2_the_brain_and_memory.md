@@ -81,13 +81,26 @@ The prefrontal cortex has access to the same short-term memory locations to whic
 
 <div align="center">
 
-<h3>Prefrontal Cortex Responsibilities</h3>
 
-||||
-|-|-|-|
-|Concentration|Organization|Judgement|
-|Reasoning|Decision Making|Creativity|
-|Emotional Regulation|Social-relational Abilities|Abstract Thinking|
+
+<table>
+    <tr><h3>Prefrontal Cortex Responsibilities</h3></tr>
+    <tr>
+        <td>Concentration</td>
+        <td>Organization</td>
+        <td>Judgement</td>
+    </tr>
+    <tr>
+        <td>Reasoning</td>
+        <td>Decision making</td>
+        <td>Creativity</td>
+    </tr>
+    <tr>
+        <td>Emotional regulation</td>
+        <td>Social-relational abilities</td>
+        <td>Abstract thinking</td>
+    </tr>
+</table>
 
 
 </div>

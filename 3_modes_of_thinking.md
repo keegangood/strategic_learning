@@ -152,11 +152,25 @@ Once we enter the deeper stages of sleep, the memories we’ve processed in our 
 
 <div align="center">
 
-|Focused|Diffuse|
-|-|-|
-|Narrow and specific|Broad and conceptual|
-|Methodical|Meandering|
-|Sharpens facts and details|Uncovers meaning and connection|
+<table>
+    <tr>
+        <td><strong>Focused</strong></td>
+        <td><strong>Diffuse</strong></td>
+    </strong>
+    </tr>
+    <tr>
+        <td>Narrow and specific</td>
+        <td>Broad and Conceptual</td>
+    </tr>
+    <tr>
+        <td>Methodical</td>
+        <td>Meandering</td>
+    </tr>
+    <tr>
+        <td>Sharpens facts and details</td>
+        <td>Uncovers meaning and connection</td>
+    </tr>
+</table>
 
 </div>
 
