@@ -85,7 +85,7 @@ The prefrontal cortex has access to the same short-term memory locations to whic
 
 <br>
 
-<center>
+<div align="center">
 
 <h3>Prefrontal Cortex Responsibilities</h3>
 
@@ -96,7 +96,7 @@ The prefrontal cortex has access to the same short-term memory locations to whic
 |Emotional Regulation|Social-relational Abilities|Abstract Thinking|
 
 
-</center>
+</div>
 
 <br>
 
