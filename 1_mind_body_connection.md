@@ -261,9 +261,9 @@ For some strategies to improve sleep habits, check out the [Tips for Better Slee
 
 <br>
 
-<center>
+<div align="center">
     <h2 id="tldr">TL;DR</h2>
-</center>
+</div>
 
 Maintaining a baseline of physical health will benefit any learning endeavor. Developing a habit of interspersing a few minutes of activity between study or work sessions will lead to desirable outcomes in terms of retaining new information. Spending time outdoors and getting enough quality sleep both support overall health and will improve our learning results as well.
 
@@ -289,4 +289,7 @@ Before beginning the next section, consider doing something that raises your hea
 <br>
 <br>
 
-[<< Table of Contents]("./")
+<div align="center">
+
+[<< Table of Contents]("./") | [Visit our website >>]("www.pdxcodeguild.com")
+</div>

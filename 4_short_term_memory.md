@@ -69,7 +69,9 @@ Modern research suggests that we can store between four and six pieces of inform
 
 ---
 
+<div align="center">
 <h2 id="tldr">TL;DR</h2>
+</div>
 
 <br>
 
@@ -81,7 +83,7 @@ Our short-term memory can only hold a few pieces of information at a time. To av
 ---
 
 <div align="center">
-    <a href="./3_the_brain_and_memory.md"> < 3. Brain & Memory </a> | 
+    <a href="./3_modes_of_thinking.md"> < 3. Modes of Thinking </a> | 
     <a href="#top">Back to top &mapstoup;</a> |
     <a href="./5_chunking_and_spaced_review.md">5. Chunking & Spaced Review ></a>
 </div>
@@ -90,4 +92,7 @@ Our short-term memory can only hold a few pieces of information at a time. To av
 <br>
 <br>
 
-[<< Table of Contents]("./")
+<div align="center">
+
+[<< Table of Contents]("./") | [Visit our website >>]("www.pdxcodeguild.com")
+</div>

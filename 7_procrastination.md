@@ -150,17 +150,11 @@ Perhaps we’re feeling afraid of failure, or even *success*?
 
 For instance, instead of saying, 
 
-<br>
-
-
 **“I have plenty of time, why start now?”**
 
 <br>
 
 we could say, 
-
-<br>
-
 
 **“I have plenty of time, but I’ll feel better if I don’t wait until the last minute.”**
 
@@ -233,8 +227,9 @@ The better we get at something, the more enjoyable it can become. We need to bel
 
 ---
 
-
+<div align="center">
 <h2 id="tldr">TL;DR</h2>
+</div>
 
 <br>
 
@@ -258,4 +253,7 @@ As with all habits, procrastination takes effort to undo. Through strategies lik
 <br>
 <br>
 
-[<< Table of Contents]("./")
+<div align="center">
+
+[<< Table of Contents]("./") | [Visit our website >>]("www.pdxcodeguild.com")
+</div>

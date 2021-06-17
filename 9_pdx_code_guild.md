@@ -97,18 +97,18 @@ Our community of advisors, instructors and alumni, are what set us apart from ot
 
 ---
 
-<table style="width:100%">
-    <tr>
-        <td align="left">
-            <a href="./mind_body_connection.md">
-                < 8. Practical Study Techniques
-            </a>
-            <br/>
-            <br/>
-            <a href="./mind_body_connection.md">
-                << Back to Introduction
-            </a>
-        </td>
-        </td>
-    </tr>
-</table>
+
+
+<div align="center">
+    <a href="./8_practical_study_techniques.md"> < 7. Practical Study Techniques </a> | 
+    <a href="#top">Back to top &mapstoup;</a> 
+</div>
+
+
+<br>
+<br>
+
+<div align="center">
+
+[<< Table of Contents]("./") | [Visit our website >>]("www.pdxcodeguild.com")
+</div>

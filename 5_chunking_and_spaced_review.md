@@ -135,7 +135,9 @@ Reviewing also slows the forgetting curve, helping us retain more information fo
 
 ---
 
+<div align="center">
 <h2 id="tldr">TL;DR</h2>
+</div>
 
 <br>
 
@@ -159,4 +161,7 @@ Even after breaking information up, if we want the information to become second 
 <br>
 <br>
 
-[<< Table of Contents]("./")
+<div align="center">
+
+[<< Table of Contents]("./") | [Visit our website >>]("www.pdxcodeguild.com")
+</div>

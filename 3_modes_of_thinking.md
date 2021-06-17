@@ -199,4 +199,7 @@ Intentionally retrieving information after it’s been committed to memory.
 <br>
 <br>
 
-[<< Table of Contents]("./")
+<div align="center">
+
+[<< Table of Contents]("./") | [Visit our website >>]("www.pdxcodeguild.com")
+</div>

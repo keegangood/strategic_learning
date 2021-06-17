@@ -2,18 +2,23 @@
 <img src="./images/pdx_code_guild_logo.svg" width=100/>
 
 </p>
-<center>
-    <span style="font-size:2rem">Practical Study Techniques</span><br>
-    <a href="#tldr">TL;DR</a>
-</center>
+<div align="center">
+
+## Practical Study Techniques</span><br>
+<a href="#tldr">TL;DR</a>
+</div>
 
 <br>
 
 ---
 
-<center>
-    <h2>Pomodoro Technique</h2>
-</center>
+<br>
+<br>
+
+
+## Pomodoro Technique
+
+<br>
 
 The Pomodoro Technique was developed by **Francesco Cirillo** in the late 1980s. It involves using a timer to space out working intervals with breaks of different durations and is a great way to conquer procrastination. 
 
@@ -21,7 +26,7 @@ It is called the “Pomodoro” Technique after a uniquely-shaped analog timer s
 
 <br>
 
-<p align="center"><img src="./images/pomodoro.jpg" width=200/></p>
+<div align="center"><img src="./images/pomodoro.jpg" width=300/></div>
 
 <br>
 
@@ -32,27 +37,27 @@ In reality, any timer will work and there is a wide variety of phone apps that c
 
 The technique works like this:
 
-<span style="font-size:1.5rem">1. </span><span style="font-size:1.3rem">Work for twenty-five minutes</span>
+### 1. Work for twenty-five minutes
 
 <br>
 
-<span style="font-size:1.5rem">2. </span><span style="font-size:1.3rem">Take a five minute break</span>
+### 2. Take a five minute break
 
 Stretch, exercise, drink water, or practice the "20-20-20 Rule"
 
 <br>
 
-<span style="font-size:1.5rem">3. </span><span style="font-size:1.3rem">Repeat steps 1 and 2 three more times</span>
+### 3. Repeat steps 1 and 2 three more times
 
 <br>
 
-<span style="font-size:1.5rem">4. </span><span style="font-size:1.3rem">Take a twenty minute break</span>
+### 4. Take a twenty minute break
 
 Avoid screens and other distractions! Practice some diffuse thinking by going for a walk, taking a nap, meditating, or breathing deeply. Reward yourself for completing some work!
 
 <br>
 
-<span style="font-size:1.5rem">5. </span><span style="font-size:1.3rem">Return to step 1</span>
+### 5. Return to step 1
 
 Repeat steps 1 - 5 as many times as needed.
 
@@ -67,23 +72,23 @@ Taking a little time to rest our brains after periods of work will leave us feel
 
 <br>
 
-<center>
+<div align="center">
     <a href="#top">Back to top &mapstoup;</a>
-</center>
+</div>
 
 ---
 
-<center>
-    <h2>Rubber Duck Technique</h2>
-</center>
+
+## Rubber Duck Technique
 
 <br>
 
-<p align="center"><img src="./images/rubber_duck.jpg" width=200/></p>
+<p align="center"><img src="./images/rubber_duck.jpg" width=300/></p>
 
-<center>
-    <span style="font-size:1.5rem">One of the best ways to solidify knowledge is to explain it to someone else.  </span>
-</center>
+<div align="center">
+    
+### One of the best ways to solidify knowledge is to explain it to someone else.
+</div>
 
 <br>
 
@@ -91,7 +96,7 @@ Teaching will expose any holes in one’s current understanding and will reinfor
 
 <br>
 
-<span style="font-size:1.5rem">Enter the rubber duck.</span>
+### Enter the rubber duck.
 
 <br>
 
@@ -106,66 +111,66 @@ A set of googly eyes goes a long way in providing some much needed personality t
 <br>
 <br>
 
-<center>
+<div align="center">
     <a href="#top">Back to top &mapstoup;</a>
-</center>
+</div>
 
 ---
 
-<center>
-    <h2>Effective Reading with OK4R</h2>
-</center>
-
 <br>
+
+## Effective Reading with OK4R
+
 
 Despite the vast amount of content that can be found in video or audio format, **reading is still the most prevalent way that most people consume information**. 
 
 It can be a little overwhelming to begin to tackle a large body of text pertaining to a certain subject. Developing an effective reading strategy can work wonders in terms of recalling the information later.
 
-Instead of starting at the beginning and reading through to the end, we will complete assignments faster and remember more if we first take the time to follow the <span style="font-size:1.3rem">OK4R reading method</span>.
+Instead of starting at the beginning and reading through to the end, we will complete assignments faster and remember more if we first take the time to follow the **OK4R reading method**.
 
 Originally devised by *Dr. Walter Pauk*, OK4R is a reading strategy to help absorb as much content from reading material as possible. 
 
 OK4R is an acronym which stands for **Overview**, **Key Ideas**, **Read**, **Recall**, **Reflect** and **Review**.
 
 <br>
+<br>
 
-<span style="font-size:1.5rem">1. </span><span style="font-size:1.3rem">Overview</span>
+### 1. Overview
 Go through the introduction, table of contents, headings, subheadings, summaries and diagrams to develop a **general idea** of what the study material is about and what to expect to learn from reading it.
-<br>
+
 <br>
 
-<span style="font-size:1.5rem">2. </span><span style="font-size:1.3rem">Key Ideas</span>
+### 2. Key Ideas
 
 Go back through the key ideas of the study material. 
 
 These are most often in the beginning of each paragraph or emphasized in some way – like bolded text, bullet points, pictures or graphs.
-<br>
+
 <br>
 
-<span style="font-size:1.5rem">3. </span><span style="font-size:1.3rem">Read</span>
+### 3. Read
 
 Once we’ve outlined the key ideas and know a bit of what to expect, we can begin to read the study material while keeping the key ideas in mind.
-<br>
+
 <br>
 
-<span style="font-size:1.5rem">4. </span><span style="font-size:1.3rem">Recall</span>
+### 4. Recall
 
 At regular intervals, close the study material and try to recall as much as possible, especially in regards to the main points of the text. 
 
 **Write down all the key points that you remember.**
-<br>
+
 <br>
 
-<span style="font-size:1.5rem">5. </span><span style="font-size:1.3rem">Reflect</span>
+### 5. Reflect
 
 Reflect on the new knowledge by thinking of practical examples.
 
 This is where we can **associate the new knowledge to what we already know**, and brainstorm new and creative applications of the information.
-<br>
+
 <br>
 
-<span style="font-size:1.5rem">6. </span><span style="font-size:1.3rem">Review</span>
+### 6. Review
 
 We should **review the material often to refresh our memory and improve our recall**. Repetitions should be spaced out and **prioritize reviewing the details have been forgotten**.
 
@@ -177,20 +182,17 @@ The OK4R reading method compliments the chunking strategy outlined in previous s
 <br>
 <br>
 
-<center>
+<div align="center">
     <a href="#top">Back to top &mapstoup;</a>
-</center>
+</div>
 
 ---
 
-
-<center>
-    <h2>As Within, So Without</h2>
-</center>
+## As Within, So Without
 
 <br>
 
-<span style="font-size:1.3rem">Humans are not separate from our environment.</span>
+### Humans are not separate from our environment.
 
 <br>
 
@@ -199,72 +201,70 @@ The way we feel on the inside is directly influenced by our surroundings and the
 The tidiness of a room, the colors on the walls, the music in the background, and the amount of natural light we receive can all affect how we feel about ourselves and the world around us, whether we’re aware of it or not.
 
 Our chosen study location and environment can heavily influence productivity and concentration when it comes time to learn.
+
 <br>
 <br>
 
-<span style="font-size:1.3rem">Take some time to set up a room or small area dedicated to studying.</span>
+### Take some time to set up a room or small area dedicated to studying.
 
 Make your space comfortable, but not *too* comfortable.
 <br>
 <br>
 
-<span style="font-size:1.3rem">Clear away distractions</span>
+### Clear away distractions
 
 Make sure the area is free of clutter and that the space is aesthetically pleasing enough to want to spend a fair amount of time there. 
 <br>
 <br>
 
-<span style="font-size:1.3rem">Cast out the darkness</span>
+### Cast out the darkness
 
 If possible, choose a naturally lit location for studying, or consider purchasing a full-spectrum lamp. 
 <br>
-<br>
 
-<span style="font-size:1.3rem">Remove clutter</span>
+### Remove clutter
 
 Be intentional about the objects that are kept in the space. 
-<br>
+
 <br>
 
-<span style="font-size:1.3rem">Choose the right tunes</span>
+### Choose the right tunes
 
 If music is to be played in the background, opt for music with minimal lyrics, allowing one’s own thoughts to fill the void. 
-<br>
+
 <br>
 
-<span style="font-size:1.3rem">Bring nature to you</span>
+### Bring nature to you
 
 Keep a few houseplants around for some company and fresh oxygen (some googly eyes could even transform the plants into excellent students to teach as we learn). 
-<br>
+
 <br>
 
-<span style="font-size:1.3rem">Ditch the devices</span>
+### Ditch the devices
 
 Turn off or silence phones and other devices and keep them out of reach. 
-<br>
+
 <br>
 
-<span style="font-size:1.3rem">Promote thinking</span>
+### Promote thinking
 
 Try keeping some fidget toys around to play with while pondering. These can also help reduce stress.
 <br>
 <br>
 
-<center>
+<div align="center">
     <a href="#top">Back to top &mapstoup;</a>
-</center>
+</div>
 
 ---
 
-<center>
+<div align="center">
     <h2 id="tldr">TL;DR</h2>
-</center>
+</div>
 
 <br>
 
-<center>
-    <h2>Pomodoro Technique</h2>
-</center>
+## Pomodoro Technique
 
 <br>
 
@@ -292,9 +292,7 @@ Avoid screens and other distractions during breaks. Instead, use them to exercis
 
 ---
 
-<center>
-    <h2>Rubber Duck Technique</h2>
-</center>
+## Rubber Duck Technique
 
 <br>
 
@@ -307,9 +305,7 @@ In the absence of a human student, we can substitue a rubber duck or other inani
 ---
 
 
-<center>
-    <h2>OK4R</h2>
-</center>
+## OK4R
 
 <br>
 
@@ -357,16 +353,17 @@ Make your space comfortable, but not *too* comfortable.
 
 ---
 
-<table style="width:100%">
-    <tr>
-        <td align="left">
-            <a href="./practical_study_techniques.md"> < 7. Practical Study Techniques </a>
-        </td>
-        <td align="center">
-            <a href="#top">Back to top &mapstoup;</a>
-        </td>
-        <td align="right">
-            <a href="./pdx_code_guild.md"> 9. PDX Code Guild > </a>
-        </td>
-    </tr>
-</table>
+<div align="center">
+    <a href="./7_procrastination.md"> < 7. Practical Study Techniques </a> | 
+    <a href="#top">Back to top &mapstoup;</a> |
+    <a href="./9_pdx_code_guild">9. PDX Code Guild ></a>
+</div>
+
+
+<br>
+<br>
+
+<div align="center">
+
+[<< Table of Contents]("./") | [Visit our website >>]("www.pdxcodeguild.com")
+</div>

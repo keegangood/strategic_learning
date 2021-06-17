@@ -50,16 +50,17 @@ At PDX Code Guild, our mission is to cultivate our students' confidence in their
 
 9.  [PDX Code Guild](./9_pdx_code_guild.md)
 
-8.  <a href="./practical_study_techniques.md">Practical Study Techniques</a>
-
-9.  <a href="./pdx_code_guild.md">PDX Code Guild</a>
-
 <br><br>
+
+<div align="center">
+    <a href="#top">Back to top &mapstoup;</a>
+</div>
+
 
 ---
 
+<br><br>
 
 <div align="center">
-    <a href="#top">Back to top &mapstoup;</a> |
     <a href="./1_mind_body_connection.md">1. The Mind-Body Connection></a>
 </div>

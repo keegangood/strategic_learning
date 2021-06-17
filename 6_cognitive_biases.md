@@ -211,9 +211,9 @@ They may feel like they actually have no right to the job they're doing and are 
 
 ---
 
-<center>
+<div align="center">
     <h2 id="tldr">TL;DR</h2>
-</center>
+</div>
 
 <br>
 
@@ -246,4 +246,7 @@ To avoid Imposter Syndrome in its many forms, celebrate small successes, take fr
 <br>
 <br>
 
-[<< Table of Contents]("./")
+<div align="center">
+
+[<< Table of Contents]("./") | [Visit our website >>]("www.pdxcodeguild.com")
+</div>
