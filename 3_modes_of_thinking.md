@@ -19,19 +19,19 @@ However, this is when we must remember the difference and recognize the benefits
 <br>
 
 <center>
-    <h2>Focused Thinking</h2>
+
+## Focused Thinking
 </center>
 
 Focused thinking is when the mind concentrates intently on a particular subject. We immerse ourselves in the information and actively expend energy towards learning it.
 
 <br>
 
-<center>
-    <h3>Examples of Focused Thinking</h3>
-    Writing a paper   <br>   
-    Doing a math problem   <br>
-    Creating a webpage <br>
-</center>
+
+<h3 align="center">Examples of Focused Thinking</h3>
+<div align="center">Writing a paper</div>
+<div align="center">Doing a math problem</div>
+<div align="center">Creating a webpage</div>
 
 <br>
 
@@ -44,7 +44,8 @@ For this reason, **when you’re feeling stuck or frustrated with a topic, it’
 <br>
 
 <center>
-    <h2>Diffuse Thinking</h2>
+    
+## Diffuse Thinking
 </center>
 
 Diffuse thinking looks at the big picture. It allows us to zoom out a bit and approach the subject from the outside in, starting with general concepts rather than more specific ones.
@@ -56,10 +57,11 @@ While our conscious minds are relaxed, they are able to make connections across 
 <br>
 
 <center>
-    <h3>Examples of Diffuse Thinking</h3>
-    Pondering the topic of your paper while doing dishes   <br>   
-    Mulling over a math problem while taking a walk   <br>
-    Considering how different webpage designs would affect a user's experience <br>
+    
+<h3>Examples of Diffuse Thinking</h3>
+<div align="center">Pondering the topic of your paper while doing dishes</div> 
+<div align="center">Mulling over a math problem while taking a walk</div>
+<div align="center">Considering how different webpage designs would affect a user's experience</div>
 </center>
 
 <br> 
@@ -69,7 +71,7 @@ Too much diffuse thinking can get in our way as well as it will prevent us from 
 
 We should practice alternating work sessions with frequent breaks to allow ourselves to zoom out a bit from the details and solidify the bigger picture. 
 
-Try to avoid things like social media or watching TV.
+### Try to avoid things like social media or watching TV.
 
 Instead, opt for activities that allow the mind to truly wander like walking or meditating. 
 
@@ -158,24 +160,13 @@ Once we enter the deeper stages of sleep, the memories we’ve processed in our 
 ## Modes of Thinking
 
 <center>
-    <table>
-        <tr>
-            <td><span style="font-size:1.3rem">Focused</span></td>
-            <td><span style="font-size:1.3rem">Diffuse</span></td>
-        </tr>
-        <tr>
-            <td>Narrow and specific</td>
-            <td>Broad and conceptual</td>
-        </tr>
-        <tr>
-            <td>Methodical</td>
-            <td>Meandering</td>
-        </tr>
-        <tr>
-            <td>Sharpens facts and details</td>
-            <td>Uncovers meaning and connection</td>
-        </tr>
-    </table>
+
+|Focused|Diffuse|
+|-|-|
+|Narrow and specific|Broad and conceptual|
+|Methodical|Meandering|
+|Sharpens facts and details|Uncovers meaning and connection|
+
 </center>
 
 <br>
@@ -191,30 +182,26 @@ Both modes of thinking are equally valuable, but it’s the harmony between them
 
 ## Stages of Learning
 
-<span style="font-size:1.3rem">Acquisition</span> - Introducing new information into the brain through one or more repetitions.
+### Acquisition
 
-<span style="font-size:1.3rem">Consolidation</span> - The process of encoding short-term memories into long-term memories during periods of diffuse thinking or sleep.
+Introducing new information into the brain through one or more repetitions.
 
-<span style="font-size:1.3rem">Recall</span> - Intentionally retrieving information after it’s been committed to memory.
+### Consolidation
+
+The process of encoding short-term memories into long-term memories during periods of diffuse thinking or sleep.
+
+### Recall
+
+Intentionally retrieving information after it’s been committed to memory.
 
 <br>
 <br>
 
 --- 
 
-<table style="width:100%">
-    <tr>
-        <td align="left">
-            <a href="./modes_of_thinking.md"> < 2. The Brain & Memory </a>
-        </td>
-        <td align="center">
-            <a href="#top">Back to top &mapstoup;</a>
-        </td>
-        <td align="right">
-            <a href="./short_term_memory.md"> 4. Short-Term Memory > </a>
-        </td>
-    </tr>
-</table>
-
-
+<div align="center">
+    <a href="./2_the_brain_and_memory.md"> < 2. The Brain & Memory </a> | 
+    <a href="#top">Back to top &mapstoup;</a> |
+    <a href="./4_short_term_memory.md">4. Short-Term Memory ></a>
+</div>
 

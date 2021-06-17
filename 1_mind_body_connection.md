@@ -16,7 +16,6 @@ Between reading books, taking notes, analyzing data, reciting information, and d
 
 Our brains need blood flow and proper hydration to work at their peak efficiency and our spirits need new and varied experiences to stay motivated and curious.
 
-
 <h3 align="center">Physical activity enhances and optimizes:</h3>
 
 <div align="center">Thinking  </div> 
@@ -69,16 +68,15 @@ Prolonged staring at a computer screen that’s no more than an arm’s length a
 
 <br>
 
-<center>
-<h3>CVS Symptoms: </h3>
-    Blurred or double vision   <br>
-    Dry eyes   <br>
-    Eye discomfort & fatigue   <br>
-    Eye itching, redness & tearing <br>
-    Headaches  <br>
-    Neck & shoulder pain
-</center>
- 
+<h3 align="center">CVS Symptoms: </h3>
+<div align="center">Blurred or double vision</div>
+<div align="center">Dry eyes</div>
+<div align="center">Eye discomfort & fatigue</div>
+<div align="center">Eye itching, redness & tearing</div>   
+<div align="center">Headaches</div>    
+<div align="center">Neck & shoulder pain</div>
+
+<br>
 <br>
 
 ## Studies show that up to **90%** of people who spend three or more hours per day with a digital device are affected by one or more of the symptoms of Computer Vision Syndrome.
@@ -88,21 +86,19 @@ Prolonged staring at a computer screen that’s no more than an arm’s length a
  
 In a survey by the American Optometric Association...
  
-<span style="font-size:1.5rem">62%</span> of respondents spent at least <span style="font-size:1.5rem">five hours a day</span> using a digital device
+**62%** of respondents spent at least **five hours a day** using a digital device
 
-<span style="font-size:1.5rem">14%</span> spent upwards of <span style="font-size:1.5rem">ten hours a day</span> in front of a screen.
+**14%** spent upwards of **ten hours a day** in front of a screen.
 
 <br>
 
-<center>
-    <h3>These things will also increase the risk of CVS: </h3>
-        Screen glare   <br>
-        Poor lighting   <br>
-        Poor posture   <br>
-        Improper viewing distance and angle <br>
-        Uncorrected vision Problems <br>
-        Not taking enough breaks while working
-</center>
+<h3 align="center">These things will also increase the risk of CVS: </h3>
+<div align="center">Screen glare  </div>
+<div align="center">Poor lighting  </div>
+<div align="center">Poor posture  </div>
+<div align="center">Improper viewing distance and angle</div>
+<div align="center">Uncorrected vision Problems</div>
+<div align="center">Not taking enough breaks while working</div>
 
 <br><br>
 
@@ -114,55 +110,33 @@ Luckily, the strategies for combating Computer Vision Syndrome are easy to imple
 
 ## Here are three of the simplest changes we can make to our routine:
 
-<span style="font-size:1.5rem">1. </span><span style="font-size:1.3rem">Drink more water</span></h1>
+<br>
+
+### 1. Drink more water
+
 Our bodies are mostly water, and our eyes are no exception. Keeping ourselves hydrated will help our eyes to produce the tears necessary to lubricate them.
 
-<br>
-<br>
-
-**We blink up to <span style="font-size:1.5rem">66%</span> less while using a computer, so be sure to blink often.**
+**We blink up to \***66%**\* less while using a computer, so be sure to blink often.**
 
 <br>
 <br>
 
-<span style="font-size:1.5rem">2. </span><span style="font-size:1.3rem">Adjust Screen Distance and Angle</span>
+### 2. Adjust Screen Distance and Angle
 
-<table>
-    <tr>
-        <td>
-            Distance
-        </td>
-        <td>
-            <b>20 to 28 inches</b> from our eyes (or about a full arm’s length away)
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Height
-        </td>
-        <td>
-            Top of the screen at <b>eye level</b>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Angle
-        </td>
-        <td>
-            Tilted back <b>10-20 degrees</b>
-        </td>
-    </tr>
-
-</table>
+|          |                                                                       |
+| -------- | --------------------------------------------------------------------- |
+| Distance | **20 to 28 inches from our eyes** (or about a full arm’s length away) |
+| Height   | Top of the screen at **eye level**                                    |
+| Distance | Tilted back **10-20 degrees**                                         |
 
 <br>
 <br>
 
-<span style="font-size:1.5rem">3. </span><span style="font-size:1.3rem">Practice the "10-20-20" Rule</span>
+### 3. Practice the "10-20-20" Rule
 
 <br>
 
-<p align="center"><img src="./images/20_20_20_rule.drawio.svg" width=200/></p>
+<p align="center"><img src="./images/20_20_20_rule.drawio.svg" width=400/></p>
 
 The “20-20-20” Rule is a technique designed to help alleviate the symptoms of Computer Vision Syndrome.
 
@@ -184,8 +158,12 @@ Click [here](./combatting_computer_vision_syndrome.md) for more ideas for combat
 ---
 
 <center>
-    <h2>Blue Light & Sleep</h2>
+
+## Blue Light & Sleep
+
 </center>
+
+<br>
 
 As technology evolves, people are growing more and more accustomed to a digital lifestyle. As our use of smartphones, tablets, LED monitors and flatscreen TVs increases, so does our exposure to blue light. While the amount of blue-colored light we take in might not seem that important, too much exposure to blue light can have a wide range of negative health effects.
 
@@ -198,42 +176,45 @@ As technology evolves, people are growing more and more accustomed to a digital 
 <br>
 
 <center>
-    <h3>Circadian Rhythm</h3>
+
+## Circadian Rhythm
+
 </center>
 
-Often referred to as our <span style="font-size:1.2rem">“biological clock”</span>, our **circadian rhythm** is a **finely-tuned, 24-hour cycle** that helps our bodies know when to carry out essential functions like eating and sleeping.
+<br>
 
-The phrase gets its name from the Latin <span style="font-size:1.2rem">"circa diem"</span>, meaning <span style="font-size:1.2rem">"around a day"</span>.
+Often referred to as our **“biological clock”**, our **circadian rhythm** is a **finely-tuned, 24-hour cycle** that helps our bodies know when to carry out essential functions like eating and sleeping.
 
-Light is the most important factor in aligning circadian rhythms. While all types of visible light can affect circadian rhythms, blue light has the largest impact. For much of human history, our sleep cycles were closely aligned with sunrise and sunset, but with the advent of artificial light and electronics, we are being exposed to increasing amounts of light before bedtime.
+The phrase gets its name from the Latin _"circa diem"_</span>, meaning _"around a day"_.
+
+**Light is the most important factor in aligning circadian rhythms.** While all types of visible light can affect circadian rhythms, blue light has the largest impact.
+
+For much of human history, our sleep cycles were closely aligned with sunrise and sunset, but with the advent of artificial light and electronics, we are being exposed to increasing amounts of light before bedtime.
 
 Blue light suppresses the body’s release of melatonin, a hormone that makes us feel drowsy. While this may be useful during the day, it becomes unhelpful at night when we’re trying to sleep.
 
 **Being exposed to blue light in the evening can trick our brain into thinking it’s still daytime**, disrupting circadian rhythms and leaving us feeling alert instead of tired.
 
 <br>
-<center>
-    <h3>Reducing blue light: </h3>
-        Blue-light-filtering glasses / contacts / screen covers<br>
-        Change screen settings to minimize blue light   <br>
-        Download an app to automatically reduce blue-light at night <br>
-        Upgrade CRT TVs and monitors <br>
-        Stop using screens one hour before bed
+<h3 align="center">Reducing blue light: </h3>
+<div align="center">Blue-light-filtering glasses / contacts / screen covers</div>
+<div align="center">Change screen settings to minimize blue light   </div>
+<div align="center">Download an app to automatically reduce blue-light at night </div>
+<div align="center">Upgrade CRT TVs and monitors</div>
+<div align="center">Stop using screens one hour before bed</div>
 
-</center>
 <br>
 <br>
 
 An improper sleep schedule can lead to a multitude of other chronic health problems, such as depression, anxiety, high blood pressure, and even certain types of cancer, so we can definitely start to see the importance of doing everything we can to promote healthy sleep.
 
-<center>
-    <h3>Poor sleep habits can lead to: </h3>
-        Depression   <br>
-        Anxiety   <br>
-        High blood pressure   <br>
-        Certain types of cancer <br>
-</center>
+<br>
 
+<h3 align="center">Poor sleep habits can lead to: </h3>
+<div align="center">Depression</div>
+<div align="center">Anxiety</div>
+<div align="center">High blood pressure</div>
+<div align="center">Certain types of cancer</div>
 <br>
 
 <br>
@@ -242,18 +223,21 @@ Animal and human studies suggest that the quantity and quality of sleep have a p
 
 Throughout the day, our brains produce a toxic protein called **beta-amyloid**, which can be found in high concentrations in people suffering from Alzheimer’s Disease.
 
+<p align="center"><img src="./images/beta_amyloid.jpg" width=400/></p>
+
+
 As this protein accumulates, it can leave us in a mental fog, impairing our ability to think clearly and preventing us from recalling information. The deepest stages of sleep cause our brain cells to shrink enough to allow these toxins to be flushed, leaving us feeling refreshed and ready to tackle the day ahead.
 
 Lack of sleep impairs reasoning, problem-solving, attention to detail, and more.
 
-<center>
-    <h3>Lack of Sleep Impairs: </h3>
-        Reasoning   <br>
-        Problem-solving   <br>
-        Information recall   <br>
-        Attention to detail <br>
-        And more... <br>
-</center>
+<br>
+
+<h3 align="center">Lack of Sleep Impairs: </h3>
+<div align="center">Reasoning</div>
+<div align="center">Problem-solving</div>
+<div align="center">Information recall</div>
+<div align="center">Attention to detail</div>
+<div align="center">And more...</div>
 
 <br>
 <br>
@@ -278,7 +262,9 @@ Maintaining a baseline of physical health will benefit any learning endeavor. De
 
 Adults should shoot for **thirty minutes of exercise, five days a week** and should aim to **drink between two and three liters of water a day**.
 
-<span style="font-size:1.2rem">So, let's get moving!</span> Before beginning the next section, consider doing something that raises your heartrate a bit.
+## So, let's get moving!
+
+Before beginning the next section, consider doing something that raises your heartrate a bit.
 
 <br>
 

@@ -4,8 +4,10 @@
 </p>
 
 <center>
-    <span style="font-size:2rem">The Brain & Memory</span><br>
-    <a href="#tldr">TL;DR</a>
+<h2 align="center">
+    The Brain & Memory
+</h2>
+<a href="#tldr">TL;DR</a>
 </center>
 
 ---
@@ -18,13 +20,14 @@ When it comes to the things we do want to remember, humans need to find meaningf
 
 While the entire brain is interwoven with memories stored throughout all areas, there are a few sections of the brain which are generally regarded as being integral in the process of encoding and recalling information.
 
-<center>
-        <h3>Parts of the brain that encode memories</h3>
-        Thalamus   <br>   
-        Amygdala   <br>
-        Hippocampus   <br>
-        Prefrontal Cortex  <br>
-</center>
+<br>
+
+<h3 align="center">Parts of the brain that encode memories</h3>
+<div align="center">Thalamus</div>
+<div align="center">Amygdala</div>
+<div align="center">Hippocampus</div>
+<div align="center">Prefrontal Cortex</div>
+
 
 <br>
 
@@ -34,7 +37,9 @@ While the entire brain is interwoven with memories stored throughout all areas, 
 <br>
 
 <center>
-    <h2>Thalamus</h2>
+    
+## Thalamus
+
 </center>
 
 All of our senses except smell are routed through the thalamus. It determines which information is important enough to be sent elsewhere in the brain for further processing and the filters out the rest.
@@ -44,7 +49,9 @@ Studies have shown that the thalamus is also essential for determining how well 
 <br>
 
 <center>
-    <h2>Amygdala</h2>
+    
+## Amygdala
+
 </center>
 
 The Amygdala (pronounced Uh-mig-duh-luh) is stimulated by intense emotions such as anger, sadness or anxiety. It is often associated with our “fight or flight” response.
@@ -54,7 +61,8 @@ Recent studies have shown that the amygdala is also partially responsible for re
 <br>
 
 <center>
-    <h2>Hippocampus</h2>
+
+## Hippocampus
 </center>
 
 The hippocampus plays an important role in encoding and retrieving memories. Its close proximity to the amygdala ensures that stimuli which trigger strong emotions are remembered.
@@ -64,7 +72,9 @@ As new memories are encoded, the hippocampus associates them to existing memorie
 <br>
 
 <center>
-    <h2>Prefrontal Cortex</h2>
+    
+## Prefrontal Cortex
+
 </center>
 
 The prefrontal cortex plays a major role in determining who we are and how we respond to situations. It provides much of functionality on which we rely for healthy relationships with ourselves and others.
@@ -74,42 +84,16 @@ The prefrontal cortex has access to the same short-term memory locations to whic
 <br>
 
 <center>
-        <h3>Prefrontal Cortex Responsibilities</h3>
-        <table>
-            <tr>
-                <td>
-                Concentration
-                </td>
-                <td>
-                Organization
-                </td>
-                <td>
-                Judgement
-                </td>
-            </tr>
-            <tr>
-                <td>
-                Reasoning
-                </td>
-                <td>
-                Decision Making
-                </td>
-                <td>
-                Creativity
-                </td>
-            </tr>
-            <tr>
-                <td>
-                Emotional Regulation
-                </td>
-                <td>
-                Social-relational Abilities
-                </td>
-                <td>
-                Abstract-thinking
-                </td>
-            </tr>
-        </table>
+
+<h3>Prefrontal Cortex Responsibilities</h3>
+
+||||
+|-|-|-|
+|Concentration|Organization|Judgement|
+|Reasoning|Decision Making|Creativity|
+|Emotional Regulation|Social-relational Abilities|Abstract Thinking|
+
+
 </center>
 
 <br>
@@ -125,7 +109,8 @@ The prefrontal cortex has access to the same short-term memory locations to whic
 <br>
 
 <center>
-    <h1>Memory</h1>
+
+# Memory
 </center>
 
 <br>
@@ -136,26 +121,26 @@ Because memory is such a complicated system, psychologists have divided memory i
 <br>
 
 <center>
-    <h2>Explicit Memory</h2>
+
+## Explicit Memory
 </center>
 
 Explicit memory is the **conscious, intentional recollection of facts, experiences, and concepts**.
 
 This type of memory requires gradual learning, with multiple presentations of a stimulus and response. Explicit memory is also known as “declarative” memory since the information can be consciously recalled and explained.
 
-<center>
-        <h3>Examples of Explicit Memory</h3>
-        Birthdays of family members   <br>   
-        The first ten digits of pi   <br>
-        The rules of chess   <br>
-        The start date of your coding boot camp at PDX Code Guild  <br>
-</center>
+<h3 align="center">Examples of Explicit Memory</h3>
+<div align="center">Birthdays of family members</div>
+<div align="center">The first ten digits of pi</div>
+<div align="center">The rules of chess</div>
+<div align="center">The start date of your coding boot camp at PDX Code Guild</div>
 
 <br>
 <br>
 
 <center>
-    <h2>Implicit Memory</h2>
+
+## Implicit Memory
 </center>
 
 Implicit or "non-declarative" memories are things that we don't intentionally try to remember. These types of memories are learned rapidly, sometimes requiring only a single exposure to a stimulus.
@@ -164,14 +149,14 @@ Implicit memories are often procedural and focused on the step-by-step processes
 
 Once these skills are learned, we don’t have to learn them again in order to perform them. These memories are largely unconscious and occur automatically; we don't need to think about all of the exact steps we need to follow in order to complete each task.
 
-<center>
-    <h3>Examples of Implicit Memory</h3>
-    Riding a bike   <br>   
-    Typing on a keyboard   <br>
-    Tying shoelaces <br>
-    Speaking in one's native language <br>
-    Dancing to a funky beat
-</center>
+<br>
+
+<h3 align="center">Examples of Implicit Memory</h3>
+<div align="center">Riding a bike</div>
+<div align="center">Typing on a keyboard</div>
+<div align="center">Tying shoelaces</div>
+<div align="center">Speaking in one's native language</div>
+<div align="center">Dancing to a funky beat</div>
 
 <br>
 <br>
@@ -181,7 +166,9 @@ Once these skills are learned, we don’t have to learn them again in order to p
 <br>
 
 <center>
-    <h2>Example of Implicit Vs Explicit Memory</h2>
+
+## Example of Implicit Vs Explicit Memory
+
 </center>
 
 Without looking at the keyboard, type the following sentence:
@@ -189,7 +176,8 @@ Without looking at the keyboard, type the following sentence:
 <br>
 
 <center>
-        <h2><b>How quickly daft jumping zebras vex!</b></h2>
+
+## **How quickly daft jumping zebras vex!**
 </center>
 
 <br>
@@ -199,8 +187,11 @@ Without looking at the keyboard, type the following sentence:
 
 Now, without looking at the keyboard:
 
+<br>
+
 <center>
-        <h2><b>Try to name the letters on the top ten keys of the keyboard</b></h2>
+
+## **Try to name the letters on the top ten keys of the keyboard**
 </center>
 
 <br>
@@ -210,13 +201,13 @@ Now, without looking at the keyboard:
 
 For even the most novice typist, it was probably quite easy to type the sentence without having to consciously think about where each letter appeared on the keyboard.
 
-### That task requires implicit memory.
+### **That task requires *implicit* memory.**
 
 <br>
 
 However, having to recall which letters appear in the top row of your keyboard may have proven to be a bit more difficult.
 
-### That task requires explicit memory.
+### **That task requires *explicit* memory.**
 
 <br>
 
@@ -226,8 +217,8 @@ Since we haven’t taken the time to intentionally commit the order of those key
 
 ---
 
-<center>
-    <h2 id="tldr">TL;DR</h2>
+<center>    
+<h2 id="tldr">TL;DR</h2>
 </center>
 
 ## The Brain
@@ -260,16 +251,8 @@ Cognitive psychologists have divided memories into two categories.
 
 ---
 
-<table style="width:100%">
-    <tr>
-        <td align="left">
-            <a href="./mind_body_connection.md"> < 1. The Mind-Body Connection </a>
-        </td>
-        <td align="center">
-            <a href="#top">Back to top &mapstoup;</a>
-        </td>
-        <td align="right">
-            <a href="./modes_of_thinking.md"> 3. Modes of Thinking > </a>
-        </td>
-    </tr>
-</table>
+<div align="center">
+    <a href="./1_mind_body_connection.md"> < 1. Mind-Body Connection </a> | 
+    <a href="#top">Back to top &mapstoup;</a> |
+    <a href="./3_modes_of_thinking.md">3. Modes of Thinking ></a>
+</div>
