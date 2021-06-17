@@ -3,15 +3,14 @@
 
 </p>
 
-<center>
-    <span style="font-size:2rem">PDX Code Guild</span><br>
-</center>
+<div align="center">
+
+## PDX Code Guild
 
 <br>
 
-<center>
-<span style="font-size:1.3rem">Our goal is to prepare our students for the real-life challenges of finding a job in the tech industry. </span>
-</center>
+### Our goal is to prepare our students for the real-life challenges of finding a job in the tech industry.
+</div>
 
 <br>
 
@@ -19,58 +18,60 @@ Boot Camp students will develop the skills required to create full-stack web app
 
 In addition to popular web technologies like HTML, CSS, Python and Javascript, students of our Full Stack Python Boot Camps will receive hands-on training to develop common professional practices and techniques including:
 
-- <span style="font-size:1.2rem">Pair / group programming</span>
+- Pair / group programming</span>
 
-- <span style="font-size:1.2rem">Agile development / time management </span>
+- Agile development / time management </span>
 
-- <span style="font-size:1.2rem">Self-driven problem solving</span>
+- Self-driven problem solving</span>
 
-- <span style="font-size:1.2rem">Reading technical documentation</span>
+- Reading technical documentation</span>
 
-- <span style="font-size:1.2rem">Code management / version control</span>
+- Code management / version control</span>
 
-- <span style="font-size:1.2rem">Interview skills / resume writing</span>
+- Interview skills / resume writing</span>
 
 <br>
 <br>
 
-<span style="font-size:1.5rem">Career Services</span>
+## Career Services
 
 Our Career Services department is here to help empower your job search! They will check in on boot camp students at regular intervals to make sure everyone is on track to start looking for jobs as soon as they graduate, if not sooner.
 
 <br>
 
-<span style="font-size:1.3rem">What can you expect from Career Services?</span>
+### What can you expect from Career Services?
 
-- <span style="font-size:1.2rem">Trusted advice & confidentiality</span>
+- Trusted advice & confidentiality
 
-- <span style="font-size:1.2rem">Career search sesources</span>
+- Career search sesources
 
-- <span style="font-size:1.2rem">Reviews of resumes and LinkedIn Profiles</span>
+- Reviews of resumes and LinkedIn Profiles
 
-- <span style="font-size:1.2rem">Mock Interviews</span>
+- Mock Interviews
 
-- <span style="font-size:1.2rem">Job Search Strategy and Marketing Plan</span>
+- Job Search Strategy and Marketing Plan
 
-- <span style="font-size:1.2rem">Goal Setting & Overcoming Barriers</span>
+- Goal Setting & Overcoming Barriers
 
 <br>
 
 We offer a variety of programs and services to help tend to each of our students' individual job search needs.
 
-<span style="font-size:1.3rem">Career Services Resources</span>
+<br>
 
-- <span style="font-size:1.2rem">PDX Code Guild Job Search Group (meets virtually every Wednesday from 11:30 am - 1:00 pm)</span>
+### Career Services Resources
 
-- <span style="font-size:1.2rem">Career search resources and information </span>
+- PDX Code Guild Job Search Group (meets virtually every Wednesday from 11:30 am - 1:00 pm)
 
-- <span style="font-size:1.2rem">Individualized career services meetings</span>
+- Career search resources and information 
 
-- <span style="font-size:1.2rem">Community resources</span>
+- Individualized career services meetings
 
-- <span style="font-size:1.2rem">Goal setting & overcoming barriers</span>
+- Community resources
 
-- <span style="font-size:1.2rem">Access to Slack’s Job-Leads channel</span>
+- Goal setting & overcoming barriers
+
+- Access to our Job-Leads channel on Slack
 
 <br>
 
@@ -86,22 +87,24 @@ Our community of advisors, instructors and alumni, are what set us apart from ot
 
 <br>
 
-<center><span style="font-size:1.5rem">Thanks! We’ll see you in the Boot Camp!</span></center>
+<div align="center">
+
+### Thanks! We’ll see you in the Boot Camp!
+</div>
 
 <br/>
 <br/>
 
-<center>
+<div align="center">
     <a href="#top">Back to top &mapstoup;</a>
-</center>
+</div>
 
 ---
 
 
 
 <div align="center">
-    <a href="./8_practical_study_techniques.md"> < 7. Practical Study Techniques </a> | 
-    <a href="#top">Back to top &mapstoup;</a> 
+    <a href="./8_practical_study_techniques.md"> < 7. Practical Study Techniques </a>
 </div>
 
 
