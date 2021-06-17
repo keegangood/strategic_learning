@@ -1,22 +1,24 @@
 <p align="center" id="top">
 <img src="./images/pdx_code_guild_logo.svg" width=100/>
 </p>
-<center>
-    <span style="font-size:2rem">Cognitive Biases</span><br>
-    <a href="#tldr">TL;DR</a>
-</center>
+<div align="center">
+    
+## Cognitive Biases
+<a href="#tldr">TL;DR</a>
+</div>
 
 <br>
 
 ---
 
-<center>
-    <h2>Dunning Kruger Effect</h2>
-</center>
+<div align="center">
+
+## Dunning Kruger Effect
+</div>
 
 <br>
 
-<span style="font-size:1.5rem">Beware the illusion of competence.</span>
+### Beware the illusion of competence.
 
 If we’ve studied something long enough, we might start to feel like we’re becoming masters in the subject.
 
@@ -24,7 +26,7 @@ We test our knowledge and when we pass our own test, we feel so accomplished tha
 
 It’s to our advantage to be open with ourselves about what we don’t know.
 
-<span style="font-size:1.5rem">When all is said and done, it is better to have an honest ignorance than a self-deceptive one.</span>
+### When all is said and done, it is better to have an honest ignorance than a self-deceptive one.</span>
 
 <br>
 
@@ -40,23 +42,25 @@ Inexperienced people do not possess the wisdom needed to recognize the informati
 
 It is actually pretty easy to fall into this pattern when learning new information.
 
-<span style="font-size:1.3rem">To avoid falling victim to the Dunning Kruger Effect, practice the following on a regular basis:</span>
+### To avoid falling victim to the Dunning Kruger Effect, practice the following on a regular basis:
 
-<span style="font-size:1.5rem">1. </span><span style="font-size:1.3rem">Play devil's advocate</span>
+<br>
+
+### 1. Play devil's advocate
 
 We should always check the information we feel like we understand. We should ask ourselves how we might be wrong and genuinely try to disprove ourselves.
 
 <br>
 <br>
 
-<span style="font-size:1.5rem">2. </span><span style="font-size:1.3rem">Teach someone</span>
+### 2. Teach someone
 
 Taking the time to explain the material to someone else and answer their questions will expose holes that might exist in our understanding.
 
 <br>
 <br>
 
-<span style="font-size:1.5rem">3. </span><span style="font-size:1.3rem">Seek feedback</span>
+### 3. Seek feedback
 
 Ask for critiques from people you can trust who you know are highly skilled in your area of interest.
 
@@ -67,47 +71,44 @@ Don’t get defensive if someone disagrees with you, take it as an opportunity f
 <br>
 <br>
 
-<span style="font-size:1.5rem">4. </span><span style="font-size:1.3rem">Be humble</span>
+### 4. Be humble
 
 Don’t pretend to know something you don’t. Make it a priority to continue learning and growing.
 
 <br>
 <br>
 
-<center>
-<span style="font-size:2rem">“In the beginner’s mind there are many possibilities, but in the expert’s there are few.”</span>
-</center>
+<div align="center">
+
+### “In the beginner’s mind there are many possibilities, but in the expert’s there are few.”
+</div>
 
 <br>
 
-<p align="right">
+<div align="right">
 ― Shunryu Suzuki, Zen Mind, Beginner's Mind 
-</p>
+</div>
 
 <br>
 <br>
 
-<center>
+<div align="center">
     <a href="#top">Back to top &mapstoup;</a>
-</center>
+</div>
 
 ---
 
-<center>
+<div align="center">
     <h2>Imposter Syndrome</h2>
-</center>
+<a href="https://xkcd.com/1954/"><img src="./images/imposter_syndrome_comic.png" width=300></a>
+</div>
 
-<br>
-
-<center>
-<a href="https://xkcd.com/1954/"><img src="./images/imposter_syndrome_comic.png" width=200></a>
-</center>
 
 <br>
 
 **Imposter Syndrome** is the opposite of the Dunning Kruger Effect.
 
-<span style="font-size:1.3rem">The more skilled we are, the more we feel like a fraud. </span>
+### The more skilled we are, the more we feel like a fraud. 
 
 This tends to make us think we’re not worthy and that we’re one wrong move away from being outed as the liars that we are.
 
@@ -117,11 +118,11 @@ Imposter syndrome can take on many forms and evoke a multitude of confusing emot
 
 <br>
 
-<span style="font-size:1.5rem">1. </span><span style="font-size:1.3rem">The Perfectionist</span>
+### 1. The Perfectionist
 
 The Perfectionist tends to set unreasonable or even impossible goals and struggles with self-doubt when they inevitably cannot complete them. They tend to have trouble finishing projects because their work doesn’t live up to their own rigorous standards. They often feel like they “could have done a better job.”
 
-<span style="font-size:1.3rem">Advice:</span>
+### Advice:
 
 - Stop dwelling on failures and give credit where credit is due.
 
@@ -134,11 +135,11 @@ The Perfectionist tends to set unreasonable or even impossible goals and struggl
 <br>
 <br>
 
-<span style="font-size:1.5rem">2. </span><span style="font-size:1.3rem">The “Superhero”</span>
+### 2. The “Superhero”
 
 The Superhero is always trying to work harder than everyone else to cover up feeling like a fraud amongst their ‘real-deal’ team mates. They are constantly thinking about work, pushing themselves to and even beyond their limits at the sacrifice of crucial downtime.
 
-<span style="font-size:1.3rem">Advice:</span>
+### Advice:
 
 - Try not to seek validation from others, but rather from within oneself.
 
@@ -149,11 +150,11 @@ The Superhero is always trying to work harder than everyone else to cover up fee
 <br>
 <br>
 
-<span style="font-size:1.5rem">3. </span><span style="font-size:1.3rem">The “Rugged Individualist”</span>
+### 3. The “Rugged Individualist”
 
 Also known as “The Soloist”, the “Rugged Individualist” will often avoid asking for help because they see it as a sign of weakness and believe it would expose them as a fraud.
 
-<span style="font-size:1.3rem">Advice:</span>
+### Advice:
 
 - No one exists in a vacuum. We are all intrinsically connected and we uphold each other through those connections.
 
@@ -164,11 +165,11 @@ Also known as “The Soloist”, the “Rugged Individualist” will often avoid
 <br>
 <br>
 
-<span style="font-size:1.5rem">4. </span><span style="font-size:1.3rem">The “Natural Genius”</span>
+### 4. The “Natural Genius”
 
 The “Natural Genius” believes that if something costs them a lot of effort, it must mean that they are bad at it. They are reluctant to accept help from others and are too afraid of failure to try new things.
 
-<span style="font-size:1.3rem">Advice:</span>
+### Advice:
 
 - Try measuring successes by the effort put into them and acknowledge the fact that no one can be great at everything.
 
@@ -179,13 +180,13 @@ The “Natural Genius” believes that if something costs them a lot of effort, 
 <br>
 <br>
 
-<span style="font-size:1.5rem">5. </span><span style="font-size:1.3rem">The “Expert”</span>
+### 5. The “Expert”
 
 The "Expert" is so caught up on the notion of achieving mastery of a skill that they lose all confidence in the skill they already possess.
 
 They may feel like they actually have no right to the job they're doing and are just waiting their peers to find out how incompetent they really are. Perhaps They don’t even apply to certain jobs because They don’t have every single skill they mentioned in the job description.
 
-<span style="font-size:1.3rem">Advice:</span>
+### Advice:
 
 - Skill gaps are normal and they don’t detract from what we already know
 
@@ -212,9 +213,7 @@ They may feel like they actually have no right to the job they're doing and are 
 
 <br>
 
-<center>
-    <h2>Dunning Kruger Effect</h2>
-</center>
+### Dunning Kruger Effect
 
 The **Dunning Kruger Effect** is the cognitive bias that causes people to believe that they are smarter and more capable than they really are.
 
@@ -222,10 +221,8 @@ We can avoid this by always questioning our knowledge, especially if we think we
 
 <br>
 
-<center>
-    <h2>Imposter Syndrome</h2>
-</center>
-
+    
+### Imposter Syndrome
 Imposter Syndrome is the persistent inability to believe that one's success is deserved or has been legitimately achieved as a result of one's own efforts or skills.
 
 To avoid Imposter Syndrome in its many forms, celebrate small successes, take frequent breaks, don't be afraid to ask for help and don't worry too much about gaps in knowledge.
@@ -235,16 +232,14 @@ To avoid Imposter Syndrome in its many forms, celebrate small successes, take fr
 
 ---
 
-<table style="width:100%">
-    <tr>
-        <td align="left">
-            <a href="./chunking_and_spaced_review.md"> < 5. Chunking & Spaced Review </a>
-        </td>
-        <td align="center">
-            <a href="#top">Back to top &mapstoup;</a>
-        </td>
-        <td align="right">
-            <a href="./procrastination.md"> 7. Procrastination > </a>
-        </td>
-    </tr>
-</table>
+<div align="center">
+    <a href="./5_chunking_and_spaced_review.md"> < 5. Chunking & Spaced Review </a> | 
+    <a href="#top">Back to top &mapstoup;</a> |
+    <a href="./7_procrastination.md">7. Procrastination ></a>
+</div>
+
+
+<br>
+<br>
+
+[<< Table of Contents]("./")

@@ -92,7 +92,7 @@ Learning and memory are often described in terms of three functions: **Acquisiti
 
 
 
-## Acquisition
+### Acquisition
 
 Acquisition is where **new information is introduced into the brain**. 
 
@@ -104,7 +104,7 @@ New information can usually be recalled shortly after it’s acquired, but witho
 
 <br>
 
-## Consolidation
+### Consolidation
 
 Consolidation is the **process of encoding short-term memories into long-term memories**. 
 
@@ -116,7 +116,7 @@ Consolidation takes place primarily during periods of diffuse thinking or sleep 
 <br>
 
 
-## Recall
+### Recall
 
 Recall is **the ability to intentionally retrieve information after it’s been committed to memory**. 
 
@@ -127,7 +127,7 @@ However, there are also many other factors that can affect our ability to quickl
 <br>
 
 
-## Sleep
+### Sleep
 
 Modern hypotheses highlight an active role for sleep in which memories undergo a process of systemic integration. 
 

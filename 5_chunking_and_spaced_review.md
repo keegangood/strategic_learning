@@ -27,43 +27,43 @@ Meaningful bits of information, or **chunks**, are grouped together so that the 
 
 ## The process of chunking can be broken down into the following steps:
 
-## 1. Look at the big picture</span>
+### 1. Look at the big picture</span>
 
 Take an overview of the subject as a whole to see where the information might lead. Don’t pay particular attention to any details.
 
 <br>
 
-## 2. Break big ideas up into smaller ideas</span>
+### 2. Break big ideas up into smaller ideas</span>
 
 Take a look at the core topics and try to anticipate what type of information might be covered in each one.
 
 <br>
 
-## 3. Focus on one small concept at a time</span>
+### 3. Focus on one small concept at a time</span>
 
 Study and practice recalling the particular ideas within the smaller concept, perhaps even forgetting about the big picture for a moment to really pay attention to the details.
 
 <br>
 
-## 4. Apply smaller ideas in a variety of contexts</span>
+### 4. Apply smaller ideas in a variety of contexts</span>
 
 This will solidify understanding of the smaller ideas and start to open up the avenues for forming connections between smaller parts of the overall topic.
 
 <br>
 
-## 5. Organize the smaller ideas into larger ideas</span>
+### 5. Organize the smaller ideas into larger ideas</span>
 
 Once we start to recognize patterns in the information, we can group smaller ideas together to attempt to recreate the complexity of the original subject.
 
 <br>
 
-## 6. Relate each larger idea back to the original concept and to other smaller concepts</span>
+### 6. Relate each larger idea back to the original concept and to other smaller concepts</span>
 
 Consider each chunk’s place in the overall subject and how it ties into the previously studied chunks
 
 <br>
 
-## 7. Repeat as many times as necessary</span>
+### 7. Repeat as many times as necessary</span>
 
 Regular review of the information will ensure quick and accurate recall of the information when needed.
 
@@ -83,7 +83,7 @@ Imagine that we're given a string of characters and told to count how many dolla
 
 <div align="center">
 
-## ?$*@?$#*??$#**@$@#?*@#$#@
+### ?$*@?$#*??$#**@$@#?*@#$#@
 </div>
 
 <br>
@@ -96,7 +96,7 @@ However, if we take a moment to sort the string by character:
 
 <div align="center">
     
-## ##### ????? ***** $$$$$ @@@@@</span>
+### ##### ????? ***** $$$$$ @@@@@</span>
 </div>
 
 <br>

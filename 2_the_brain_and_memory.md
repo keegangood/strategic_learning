@@ -40,11 +40,8 @@ While the entire brain is interwoven with memories stored throughout all areas, 
 <br>
 <br>
 
-<center>
     
-## Thalamus
-
-</center>
+### Thalamus
 
 All of our senses except smell are routed through the thalamus. It determines which information is important enough to be sent elsewhere in the brain for further processing and the filters out the rest.
 
@@ -52,11 +49,8 @@ Studies have shown that the thalamus is also essential for determining how well 
 
 <br>
 
-<center>
     
-## Amygdala
-
-</center>
+### Amygdala
 
 The Amygdala (pronounced Uh-mig-duh-luh) is stimulated by intense emotions such as anger, sadness or anxiety. It is often associated with our “fight or flight” response.
 
@@ -64,10 +58,8 @@ Recent studies have shown that the amygdala is also partially responsible for re
 
 <br>
 
-<center>
 
-## Hippocampus
-</center>
+### Hippocampus
 
 The hippocampus plays an important role in encoding and retrieving memories. Its close proximity to the amygdala ensures that stimuli which trigger strong emotions are remembered.
 
@@ -77,7 +69,7 @@ As new memories are encoded, the hippocampus associates them to existing memorie
 
 <center>
     
-## Prefrontal Cortex
+### Prefrontal Cortex
 
 </center>
 
@@ -124,10 +116,9 @@ Because memory is such a complicated system, psychologists have divided memory i
 <br>
 <br>
 
-<center>
 
 ## Explicit Memory
-</center>
+
 
 Explicit memory is the **conscious, intentional recollection of facts, experiences, and concepts**.
 
@@ -186,7 +177,7 @@ Without looking at the keyboard, type the following sentence:
 
 <div align="center">
 
-## **How quickly daft jumping zebras vex!**
+### **How quickly daft jumping zebras vex!**
 
 </div>
 
@@ -201,7 +192,7 @@ Now, without looking at the keyboard:
 
 <div align="center">
 
-## **Try to name the letters on the top ten keys of the keyboard**
+### **Try to name the letters on the top ten keys of the keyboard**
 </div>
 <br>
 <br>
