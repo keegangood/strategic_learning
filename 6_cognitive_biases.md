@@ -227,7 +227,7 @@ We can avoid this by always questioning our knowledge, especially if we think we
 
     
 ### Imposter Syndrome
-Imposter Syndrome is the persistent inability to believe that one's success is deserved or has been legitimately achieved as a result of one's own efforts or skills.
+**Imposter Syndrome** is the persistent inability to believe that one's success is deserved or has been legitimately achieved as a result of one's own efforts or skills.
 
 To avoid Imposter Syndrome in its many forms, celebrate small successes, take frequent breaks, don't be afraid to ask for help and don't worry too much about gaps in knowledge.
 
