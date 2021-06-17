@@ -32,19 +32,23 @@ At PDX Code Guild, our mission is to cultivate our students' confidence in their
 
 ## Table of Contents
 
-1.  [The Mind-Body Connection](./mind_body_connection.md)
+1.  [The Mind-Body Connection](./1_mind_body_connection.md)
 
-2.  [The Brain & Memory](./the_brain_and_memory.md)
+2.  [The Brain & Memory](./2_the_brain_and_memory.md)
 
-3.  <a href="./modes_of_thinking.md">Modes of Thinking</a>
+3.  [Modes of Thinking](./3_modes_of_thinking.md)
 
-4.  <a href="./short_term_memory.md">Short-term Memory</a>
+4.  [Short-Term Memory](./4_short_term_memory.md)
 
-5.  <a href="./chunking_and_spaced_review.md">Chunking & Spaced Review</a>
+5.  [Chunking & Spaced Review](./5_chunking_and_spaced_review.md)
 
-6.  <a href="./cognitive_biases.md">Cognitive Biases</a>
+6.  [Cognitive Biases](./6_cognitive_biases.md)
 
-7.  <a href="./procrastination.md">Procrastination</a>
+7.  [Procrastination](./7_procrastination.md)
+
+8.  [Practical Study Techniques](./8_practical_study_techniques.md)
+
+9.  [PDX Code Guild](./9_pdx_code_guild.md)
 
 8.  <a href="./practical_study_techniques.md">Practical Study Techniques</a>
 
@@ -52,18 +56,10 @@ At PDX Code Guild, our mission is to cultivate our students' confidence in their
 
 <br><br>
 
-<center>
-    <a href="#top">Back to top &mapstoup;</a>
-</center>
-
 ---
 
-<table style="width:100%">
-    <tr>
-        <td align="right">
-            <a href="./mind_body_connection.md">
-                1. The Mind-Body Connection >
-            </a>
-        </td>
-    </tr>
-</table>
+
+<div align="center">
+    <a href="#top">Back to top &mapstoup;</a> |
+    <a href="./1_mind_body_connection.md">1. The Mind-Body Connection></a>
+</div>
