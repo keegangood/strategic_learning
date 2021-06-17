@@ -67,11 +67,9 @@ As new memories are encoded, the hippocampus associates them to existing memorie
 
 <br>
 
-<center>
     
 ### Prefrontal Cortex
 
-</center>
 
 The prefrontal cortex plays a major role in determining who we are and how we respond to situations. It provides much of functionality on which we rely for healthy relationships with ourselves and others.
 
@@ -109,18 +107,18 @@ The prefrontal cortex has access to the same short-term memory locations to whic
 
 <br>
 
-<center>
+<div align="center">
 <a href="#top">Back to top &mapstoup;</a>
-</center>
+</div>
 
 ---
 
 <br>
 
-<center>
+<div align="center">
 
 # Memory
-</center>
+</div>
 
 <br>
 
@@ -149,10 +147,8 @@ This type of memory requires gradual learning, with multiple presentations of a 
 <br>
 <br>
 
-<center>
 
 ## Implicit Memory
-</center>
 
 Implicit or "non-declarative" memories are things that we don't intentionally try to remember. These types of memories are learned rapidly, sometimes requiring only a single exposure to a stimulus.
 
