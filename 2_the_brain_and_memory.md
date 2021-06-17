@@ -3,12 +3,12 @@
 
 </p>
 
-<center>
-<h2 align="center">
+<div align="center">
+<h2>
     The Brain & Memory
 </h2>
 <a href="#tldr">TL;DR</a>
-</center>
+</div>
 
 ---
 
@@ -31,7 +31,7 @@ While the entire brain is interwoven with memories stored throughout all areas, 
 
 <br>
 
-<img src="./images/the_brain.drawio.svg"/>
+<img align="center" src="./images/the_brain.drawio.svg"/>
 
 <br>
 <br>
