@@ -22,11 +22,13 @@ While the entire brain is interwoven with memories stored throughout all areas, 
 
 <br>
 
-<h3 align="center">Parts of the brain that encode memories</h3>
-<div align="center">Thalamus</div>
-<div align="center">Amygdala</div>
-<div align="center">Hippocampus</div>
-<div align="center">Prefrontal Cortex</div>
+<div align="center">
+<h3>Parts of the brain that encode memories</h3>
+<p>Thalamus</p>
+<p>Amygdala</p>
+<p>Hippocampus</p>
+<p>Prefrontal Cortex</p>
+</div>
 
 
 <br>
@@ -131,11 +133,14 @@ Explicit memory is the **conscious, intentional recollection of facts, experienc
 
 This type of memory requires gradual learning, with multiple presentations of a stimulus and response. Explicit memory is also known as “declarative” memory since the information can be consciously recalled and explained.
 
-<h3 align="center">Examples of Explicit Memory</h3>
-<div align="center">Birthdays of family members</div>
-<div align="center">The first ten digits of pi</div>
-<div align="center">The rules of chess</div>
-<div align="center">The start date of your coding boot camp at PDX Code Guild</div>
+<div align="center">
+
+<h3>Examples of Explicit Memory</h3>
+<p>Birthdays of family members</p>
+<p>The first ten digits of pi</p>
+<p>The rules of chess</p>
+<p>The start date of your coding boot camp at PDX Code Guild</p>
+</div>
 
 <br>
 <br>
@@ -153,12 +158,14 @@ Once these skills are learned, we don’t have to learn them again in order to p
 
 <br>
 
-<h3 align="center">Examples of Implicit Memory</h3>
-<div align="center">Riding a bike</div>
-<div align="center">Typing on a keyboard</div>
-<div align="center">Tying shoelaces</div>
-<div align="center">Speaking in one's native language</div>
-<div align="center">Dancing to a funky beat</div>
+<div align="center">
+<h3>Examples of Implicit Memory</h3>
+<p>Riding a bike</p>
+<p>Typing on a keyboard</p>
+<p>Tying shoelaces</p>
+<p>Speaking in one's native language</p>
+<p>Dancing to a funky beat</p>
+</div>
 
 <br>
 <br>

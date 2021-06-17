@@ -16,14 +16,16 @@ Between reading books, taking notes, analyzing data, reciting information, and d
 
 Our brains need blood flow and proper hydration to work at their peak efficiency and our spirits need new and varied experiences to stay motivated and curious.
 
-<h3 align="center">Physical activity enhances and optimizes:</h3>
 
-<div align="center">Thinking  </div> 
-<div align="center">Learning  </div>
-<div align="center">Judgment  </div>
-<div align="center">Alertness </div>
-<div align="center">Attention </div>
-<div align="center">Motivation</div>
+<div align="center">
+<h3>Physical activity enhances and optimizes:</h3>
+<p>Thinking  </p> 
+<p>Learning  </p>
+<p>Judgment  </p>
+<p>Alertness </p>
+<p>Attention </p>
+<p>Motivation</p>
+</div>
 
 <br/>
 <br/>
@@ -67,14 +69,15 @@ In a study of 20,000 people, the European Centre for Environment & Human Health 
 Prolonged staring at a computer screen that’s no more than an arm’s length away can lead to a unique form of eye-strain, called **Computer Vision Syndrome** (CVS).
 
 <br>
-
-<h3 align="center">CVS Symptoms: </h3>
-<div align="center">Blurred or double vision</div>
-<div align="center">Dry eyes</div>
-<div align="center">Eye discomfort & fatigue</div>
-<div align="center">Eye itching, redness & tearing</div>   
-<div align="center">Headaches</div>    
-<div align="center">Neck & shoulder pain</div>
+<div align="center">
+<h3>CVS Symptoms: </h3>
+<p>Blurred or double vision</p>
+<p>Dry eyes</p>
+<p>Eye discomfort & fatigue</p>
+<p>Eye itching, redness & tearing</p>   
+<p>Headaches</p>    
+<p>Neck & shoulder pain</p>
+</div>
 
 <br>
 <br>
@@ -91,14 +94,15 @@ In a survey by the American Optometric Association...
 **14%** spent upwards of **ten hours a day** in front of a screen.
 
 <br>
-
-<h3 align="center">These things will also increase the risk of CVS: </h3>
-<div align="center">Screen glare  </div>
-<div align="center">Poor lighting  </div>
-<div align="center">Poor posture  </div>
-<div align="center">Improper viewing distance and angle</div>
-<div align="center">Uncorrected vision Problems</div>
-<div align="center">Not taking enough breaks while working</div>
+<div align="center">
+<h3>These things will also increase the risk of CVS: </h3>
+<p>Screen glare  </p>
+<p>Poor lighting  </p>
+<p>Poor posture  </p>
+<p>Improper viewing distance and angle</p>
+<p>Uncorrected vision Problems</p>
+<p>Not taking enough breaks while working</p>
+</div>
 
 <br><br>
 
@@ -196,12 +200,14 @@ Blue light suppresses the body’s release of melatonin, a hormone that makes us
 **Being exposed to blue light in the evening can trick our brain into thinking it’s still daytime**, disrupting circadian rhythms and leaving us feeling alert instead of tired.
 
 <br>
-<h3 align="center">Reducing blue light: </h3>
-<div align="center">Blue-light-filtering glasses / contacts / screen covers</div>
-<div align="center">Change screen settings to minimize blue light   </div>
-<div align="center">Download an app to automatically reduce blue-light at night </div>
-<div align="center">Upgrade CRT TVs and monitors</div>
-<div align="center">Stop using screens one hour before bed</div>
+<div align="center">
+<h3>Reducing blue light: </h3>
+<p>Blue-light-filtering glasses / contacts / screen covers</p>
+<p>Change screen settings to minimize blue light   </p>
+<p>Download an app to automatically reduce blue-light at night </p>
+<p>Upgrade CRT TVs and monitors</p>
+<p>Stop using screens one hour before bed</p>
+</div>
 
 <br>
 <br>
@@ -210,11 +216,13 @@ An improper sleep schedule can lead to a multitude of other chronic health probl
 
 <br>
 
-<h3 align="center">Poor sleep habits can lead to: </h3>
-<div align="center">Depression</div>
-<div align="center">Anxiety</div>
-<div align="center">High blood pressure</div>
-<div align="center">Certain types of cancer</div>
+<div align="center">
+<h3>Poor sleep habits can lead to: </h3>
+<p>Depression</p>
+<p>Anxiety</p>
+<p>High blood pressure</p>
+<p>Certain types of cancer</p>
+</div>
 <br>
 
 <br>
@@ -231,14 +239,14 @@ As this protein accumulates, it can leave us in a mental fog, impairing our abil
 Lack of sleep impairs reasoning, problem-solving, attention to detail, and more.
 
 <br>
-
-<h3 align="center">Lack of Sleep Impairs: </h3>
-<div align="center">Reasoning</div>
-<div align="center">Problem-solving</div>
-<div align="center">Information recall</div>
-<div align="center">Attention to detail</div>
-<div align="center">And more...</div>
-
+<div align="center">
+<h3>Lack of Sleep Impairs: </h3>
+<p>Reasoning</p>
+<p>Problem-solving</p>
+<p>Information recall</p>
+<p>Attention to detail</p>
+<p>And more...</p>
+</div>
 <br>
 <br>
 
