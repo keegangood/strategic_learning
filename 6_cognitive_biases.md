@@ -201,7 +201,11 @@ They may feel like they actually have no right to the job they're doing and are 
 
 <br>
 
-### Imposter Syndrome is incredibly common. We should always try not to be compassionate with ourselves when learning something new. Everyone is unique and learns things in their own way and at their own pace.
+### Imposter Syndrome is ***incredibly*** common. 
+
+### We should always try not to be compassionate with ourselves when learning something new. 
+
+### Everyone is unique and learns things in their own way and at their own pace.
 
 <br>
 
