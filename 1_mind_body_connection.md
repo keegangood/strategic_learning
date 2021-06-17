@@ -19,12 +19,11 @@ Our brains need blood flow and proper hydration to work at their peak efficiency
 
 <div align="center">
 <h3>Physical activity enhances and optimizes:</h3>
-<p>Thinking  </p> 
-<p>Learning  </p>
-<p>Judgment  </p>
-<p>Alertness </p>
-<p>Attention </p>
-<p>Motivation</p>
+
+||||
+|-|-|-|
+|Thinking|Learning|Judgement|
+|Alertness|Attention|Motivation|
 </div>
 
 <br/>
@@ -285,3 +284,9 @@ Before beginning the next section, consider doing something that raises your hea
     <a href="#top">Back to top &mapstoup;</a> |
     <a href="./2_the_brain_and_memory.md">2. The Brain & Memory ></a>
 </div>
+
+
+<br>
+<br>
+
+[<< Table of Contents]("./")

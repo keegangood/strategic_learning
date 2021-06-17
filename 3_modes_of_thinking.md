@@ -19,10 +19,8 @@ However, this is when we must remember the difference and recognize the benefits
 <br>
 <br>
 
-<div align="center">
 
 ## Focused Thinking
-</div>
 
 Focused thinking is when the mind concentrates intently on a particular subject. We immerse ourselves in the information and actively expend energy towards learning it.
 
@@ -36,7 +34,7 @@ Focused thinking is when the mind concentrates intently on a particular subject.
 
 <br>
 
-The longer we keep our brains in focused mode, the more we experience tunnel vision, which makes it harder to think outside-the-box. This phenomenon is known as the *Einstellung Effect* and removes our ability to reset the parameters or premise of a problem and thereby blocks creativity. 
+The longer we keep our brains in focused mode, the more we experience tunnel vision, which makes it harder to think outside-the-box. This phenomenon is known as the ***Einstellung Effect*** and removes our ability to reset the parameters or premise of a problem and thereby blocks creativity. 
 
 For this reason, **when you’re feeling stuck or frustrated with a topic, it’s best to step back and take a break** to let the diffuse mode of thinking run for a while. 
 
@@ -44,10 +42,8 @@ For this reason, **when you’re feeling stuck or frustrated with a topic, it’
 <br>
 <br>
 
-<div align="center">
     
 ## Diffuse Thinking
-</div>
 
 Diffuse thinking looks at the big picture. It allows us to zoom out a bit and approach the subject from the outside in, starting with general concepts rather than more specific ones.
 
@@ -95,10 +91,8 @@ Instead, opt for activities that allow the mind to truly wander like walking or 
 Learning and memory are often described in terms of three functions: **Acquisition**, **Consolidation** and **Recall**.
 
 
-<div align="center">
 
 ## Acquisition
-</div>
 
 Acquisition is where **new information is introduced into the brain**. 
 
@@ -110,10 +104,7 @@ New information can usually be recalled shortly after it’s acquired, but witho
 
 <br>
 
-<div align="center">
-
 ## Consolidation
-</div>
 
 Consolidation is the **process of encoding short-term memories into long-term memories**. 
 
@@ -124,10 +115,8 @@ Consolidation takes place primarily during periods of diffuse thinking or sleep 
 
 <br>
 
-<div align="center">
 
 ## Recall
-</div>
 
 Recall is **the ability to intentionally retrieve information after it’s been committed to memory**. 
 
@@ -137,10 +126,8 @@ However, there are also many other factors that can affect our ability to quickl
 
 <br>
 
-<div align="center">
 
 ## Sleep
-</div>
 
 Modern hypotheses highlight an active role for sleep in which memories undergo a process of systemic integration. 
 
@@ -156,9 +143,7 @@ Once we enter the deeper stages of sleep, the memories we’ve processed in our 
 
 ---
 
-<div align="center">
-    <h2 id="tldr">TL;DR</h2>
-</div>
+<h2 id="tldr">TL;DR</h2>
 
 <br>
 
