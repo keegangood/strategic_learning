@@ -327,7 +327,7 @@ Make your space comfortable, but not *too* comfortable.
 <div align="center">
     <a href="./7_procrastination.md"> < 7. Practical Study Techniques </a> | 
     <a href="#top">Back to top &mapstoup;</a> |
-    <a href="./9_pdx_code_guild">9. PDX Code Guild ></a>
+    <a href="./9_pdx_code_guild.md">9. PDX Code Guild ></a>
 </div>
 
 
