@@ -130,21 +130,15 @@ OK4R is an acronym which stands for **Overview**, **Key Ideas**, **Read**, **Rec
 ### 1. Overview
 Go through the introduction, table of contents, headings, subheadings, summaries and diagrams to develop a **general idea** of what the study material is about and what to expect to learn from reading it.
 
-<br>
-
 ### 2. Key Ideas
 
 Go back through the key ideas of the study material. 
 
 These are most often in the beginning of each paragraph or emphasized in some way – like bolded text, bullet points, pictures or graphs.
 
-<br>
-
 ### 3. Read
 
 Once we’ve outlined the key ideas and know a bit of what to expect, we can begin to read the study material while keeping the key ideas in mind.
-
-<br>
 
 ### 4. Recall
 
@@ -152,15 +146,11 @@ At regular intervals, close the study material and try to recall as much as poss
 
 **Write down all the key points that you remember.**
 
-<br>
-
 ### 5. Reflect
 
 Reflect on the new knowledge by thinking of practical examples.
 
 This is where we can **associate the new knowledge to what we already know**, and brainstorm new and creative applications of the information.
-
-<br>
 
 ### 6. Review
 
@@ -200,47 +190,36 @@ Our chosen study location and environment can heavily influence productivity and
 ### Take some time to set up a room or small area dedicated to studying.
 
 Make your space comfortable, but not *too* comfortable.
-<br>
-<br>
 
 ### Clear away distractions
 
 Make sure the area is free of clutter and that the space is aesthetically pleasing enough to want to spend a fair amount of time there. 
-<br>
-<br>
+
 
 ### Cast out the darkness
 
 If possible, choose a naturally lit location for studying, or consider purchasing a full-spectrum lamp. 
-<br>
 
 ### Remove clutter
 
 Be intentional about the objects that are kept in the space. 
 
-<br>
-
 ### Choose the right tunes
 
 If music is to be played in the background, opt for music with minimal lyrics, allowing one’s own thoughts to fill the void. 
-
-<br>
 
 ### Bring nature to you
 
 Keep a few houseplants around for some company and fresh oxygen (some googly eyes could even transform the plants into excellent students to teach as we learn). 
 
-<br>
-
 ### Ditch the devices
 
 Turn off or silence phones and other devices and keep them out of reach. 
 
-<br>
-
 ### Promote thinking
 
 Try keeping some fidget toys around to play with while pondering. These can also help reduce stress.
+
 <br>
 <br>
 
