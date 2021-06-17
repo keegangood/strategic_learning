@@ -167,20 +167,21 @@ Once these skills are learned, we don’t have to learn them again in order to p
 
 <br>
 
-<center>
+
 
 ## Example of Implicit Vs Explicit Memory
 
-</center>
+<br>
 
 Without looking at the keyboard, type the following sentence:
 
 <br>
 
-<center>
+<div align="center">
 
 ## **How quickly daft jumping zebras vex!**
-</center>
+
+</div>
 
 <br>
 <br>
@@ -191,11 +192,10 @@ Now, without looking at the keyboard:
 
 <br>
 
-<center>
+<div align="center">
 
 ## **Try to name the letters on the top ten keys of the keyboard**
-</center>
-
+</div>
 <br>
 <br>
 <br>
@@ -219,9 +219,11 @@ Since we haven’t taken the time to intentionally commit the order of those key
 
 ---
 
-<center>    
+<div align="center">    
 <h2 id="tldr">TL;DR</h2>
-</center>
+</div>
+
+<br>
 
 ## The Brain
 
@@ -229,13 +231,17 @@ Human's remember things better if we can associate them to things we already kno
 
 There are four parts of the brain that are crucial for encoding and retrieving memories.
 
-<span style="font-size:1.5rem">1. </span><span style="font-size:1.2rem">Thalamus</span> - Determines which incoming information is important
+### 1. Thalamus
+Determines which incoming information is important
 
-<span style="font-size:1.5rem">2. </span><span style="font-size:1.2rem">Amygdala</span> - Flags stimuli that trigger strong emotions to be remembered.
+### 2. Amygdala
+Flags stimuli that trigger strong emotions to be remembered.
 
-<span style="font-size:1.5rem">3. </span><span style="font-size:1.2rem">Hippocampus</span> - Encodes & retrieves memories through association.
+### 3. Hippocampus
+Encodes & retrieves memories through association.
 
-<span style="font-size:1.5rem">4. </span><span style="font-size:1.2rem">Prefrontal Cortex</span> - Performs all the tasks that make up one's personality and is able to intentionally recall memories.
+### 4. Prefrontal Cortex
+Performs all the tasks that make up one's personality and is able to intentionally recall memories.
 
 ---
 
@@ -245,9 +251,15 @@ There are four parts of the brain that are crucial for encoding and retrieving m
 
 Cognitive psychologists have divided memories into two categories.
 
-<span style="font-size:1.2rem">Explicit memory</span> - Information that is intentionally learned and recalled such as facts or events.
+<br>
 
-<span style="font-size:1.2rem">Implicit memory</span> - Information that is unconsciously learned and recalled automatically. These memories are usually more procedural and deal with the how rather than the why.
+### Explicit memory
+Information that is intentionally learned and recalled such as facts or events.
+
+<br>
+
+### Implicit memory
+Information that is unconsciously learned and recalled automatically. These memories are usually more procedural and deal with the how rather than the why.
 
 <br>
 

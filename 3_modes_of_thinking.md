@@ -2,10 +2,11 @@
 <img src="./images/pdx_code_guild_logo.svg" width=100/>
 
 </p>
-<center>
-    <span style="font-size:2rem">Modes of Thinking</span><br>
-    <a href="#tldr">TL;DR</a>
-</center>
+<div align="center">
+
+## Modes of Thinking
+<a href="#tldr">TL;DR</a>
+</div align="center">
 
 ---
 
@@ -43,10 +44,10 @@ For this reason, **when you’re feeling stuck or frustrated with a topic, it’
 <br>
 <br>
 
-<center>
+<div align="center">
     
 ## Diffuse Thinking
-</center>
+</div>
 
 Diffuse thinking looks at the big picture. It allows us to zoom out a bit and approach the subject from the outside in, starting with general concepts rather than more specific ones.
 
@@ -56,13 +57,13 @@ While our conscious minds are relaxed, they are able to make connections across 
 
 <br>
 
-<center>
+<div align="center">
     
 <h3>Examples of Diffuse Thinking</h3>
-<div align="center">Pondering the topic of your paper while doing dishes</div> 
-<div align="center">Mulling over a math problem while taking a walk</div>
-<div align="center">Considering how different webpage designs would affect a user's experience</div>
-</center>
+<p>Pondering the topic of your paper while doing dishes</p> 
+<p>Mulling over a math problem while taking a walk</p>
+<p>Considering how different webpage designs would affect a user's experience</p>
+</div>
 
 <br> 
 <br> 
@@ -78,24 +79,26 @@ Instead, opt for activities that allow the mind to truly wander like walking or 
 <br>
 <br>
 
-<center>
+<div align="center">
 <a href="#top">Back to top &mapstoup;</a>
-</center>
+</div>
 
 ---
 
 <br>
 
-<center>
-    <h2>Stages of Learning</h2>
-</center>
+<div align="center">
+    
+## Stages of Learning
+</div>
 
 Learning and memory are often described in terms of three functions: **Acquisition**, **Consolidation** and **Recall**.
 
 
-<center>
-    <h2>Acquisition</h2>
-</center>
+<div align="center">
+
+## Acquisition
+</div>
 
 Acquisition is where **new information is introduced into the brain**. 
 
@@ -107,9 +110,10 @@ New information can usually be recalled shortly after it’s acquired, but witho
 
 <br>
 
-<center>
-    <h2>Consolidation</h2>
-</center>
+<div align="center">
+
+## Consolidation
+</div>
 
 Consolidation is the **process of encoding short-term memories into long-term memories**. 
 
@@ -120,9 +124,10 @@ Consolidation takes place primarily during periods of diffuse thinking or sleep 
 
 <br>
 
-<center>
-    <h2>Recall</h2>
-</center>
+<div align="center">
+
+## Recall
+</div>
 
 Recall is **the ability to intentionally retrieve information after it’s been committed to memory**. 
 
@@ -132,9 +137,10 @@ However, there are also many other factors that can affect our ability to quickl
 
 <br>
 
-<center>
-    <h2>Sleep</h2>
-</center>
+<div align="center">
+
+## Sleep
+</div>
 
 Modern hypotheses highlight an active role for sleep in which memories undergo a process of systemic integration. 
 
@@ -144,22 +150,22 @@ Once we enter the deeper stages of sleep, the memories we’ve processed in our 
 
 <br>
 
-<center>
+<div align="center">
     <a href="#top">Back to top &mapstoup;</a>
-</center>
+</div>
 
 ---
 
-<center>
+<div align="center">
     <h2 id="tldr">TL;DR</h2>
-</center>
+</div>
 
 <br>
 
 
 ## Modes of Thinking
 
-<center>
+<div align="center">
 
 |Focused|Diffuse|
 |-|-|
@@ -167,7 +173,7 @@ Once we enter the deeper stages of sleep, the memories we’ve processed in our 
 |Methodical|Meandering|
 |Sharpens facts and details|Uncovers meaning and connection|
 
-</center>
+</div>
 
 <br>
 
