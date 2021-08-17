@@ -7,6 +7,7 @@
 
 <h3 align="center">A Practical Approach to Conitued Education</h3>
 
+
 ---
 <br>
 Welcome to the PDX Code Guild and thanks for joining us in our Strategic Learning course, which break down some of the key elements of what it means to learn.
@@ -59,8 +60,13 @@ At PDX Code Guild, our mission is to cultivate our students' confidence in their
 
 ---
 
-<br><br>
+<br>
 
 <div align="center">
     <a href="./1_mind_body_connection.md">1. The Mind-Body Connection></a>
 </div>
+
+<br><br>
+
+---
+<p align="center">Created by Keegan Good, 2021</p>

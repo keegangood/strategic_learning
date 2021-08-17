@@ -287,9 +287,13 @@ Before beginning the next section, consider doing something that raises your hea
 
 
 <br>
-<br>
 
 <div align="center">
 
 [<< Table of Contents](/README.md) | [Visit our website >>](http://www.pdxcodeguild.com)
 </div>
+
+<br><br>
+
+---
+<p align="center">Created by Keegan Good, 2021</p>
